@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Afghanistan</key>
+	<string>अफ़गानिस्तान</string>
+	<key>Algeria</key>
+	<string>अल्जीरिया</string>
+	<key>Angola</key>
+	<string>अंगोला</string>
+	<key>Argentina</key>
+	<string>अर्जेंटीना</string>
+	<key>Armenia</key>
+	<string>आर्मीनिया</string>
+	<key>Australia</key>
+	<string>ऑस्ट्रेलिया</string>
+	<key>Austria</key>
+	<string>ऑस्ट्रिया</string>
+	<key>Azerbaijan</key>
+	<string>अज़रबैजान</string>
+	<key>Bahrain</key>
+	<string>बहरीन</string>
+	<key>Bangladesh</key>
+	<string>बांग्लादेश</string>
+	<key>Barbados</key>
+	<string>बारबाडोस</string>
+	<key>Belgium</key>
+	<string>बेल्जियम</string>
+	<key>Bolivia</key>
+	<string>बोलीविया</string>
+	<key>Brazil</key>
+	<string>ब्राज़ील</string>
+	<key>Bulgaria</key>
+	<string>बुल्गारिया</string>
+	<key>Burkina Faso</key>
+	<string>बुर्किना फ़ासो</string>
+	<key>Burma</key>
+	<string>बर्मा</string>
+	<key>Cambodia</key>
+	<string>कंबोडिया</string>
+	<key>Cameroon</key>
+	<string>कैमरून</string>
+	<key>Canada</key>
+	<string>कनाडा</string>
+	<key>Central African Republic</key>
+	<string>मध्य अफ़्रीकी गणराज्य</string>
+	<key>Chad</key>
+	<string>चाड</string>
+	<key>Chile</key>
+	<string>चिली</string>
+	<key>China</key>
+	<string>चीन</string>
+	<key>Colombia</key>
+	<string>कोलंबिया</string>
+	<key>Costa Rica</key>
+	<string>कोस्टा रिका</string>
+	<key>Croatia</key>
+	<string>क्रोएशिया</string>
+	<key>Cuba</key>
+	<string>क्यूबा</string>
+	<key>Czech Republic</key>
+	<string>चेक गणराज्य</string>
+	<key>Denmark</key>
+	<string>डेनमार्क</string>
+	<key>Djibouti</key>
+	<string>जिबूती</string>
+	<key>Dominican Republic</key>
+	<string>डोमिनिकन गणराज्य</string>
+	<key>Ecuador</key>
+	<string>इक्वाडोर</string>
+	<key>Egypt</key>
+	<string>मिस्र</string>
+	<key>El Salvador</key>
+	<string>अल सल्वाडोर</string>
+	<key>England</key>
+	<string>इंग्लैंड</string>
+	<key>Eritrea</key>
+	<string>इरिट्रिया</string>
+	<key>Ethiopia</key>
+	<string>इथियोपिया</string>
+	<key>Finland</key>
+	<string>फ़िनलैंड</string>
+	<key>France</key>
+	<string>फ़्रांस</string>
+	<key>French Guiana</key>
+	<string>फ़्रेंच गुयाना</string>
+	<key>Germany</key>
+	<string>जर्मनी</string>
+	<key>Ghana</key>
+	<string>घाना</string>
+	<key>Greece</key>
+	<string>यूनान</string>
+	<key>Greenland</key>
+	<string>ग्रीनलैंड</string>
+	<key>Guatemala</key>
+	<string>ग्वाटेमाला</string>
+	<key>Guinea</key>
+	<string>गिनी</string>
+	<key>Guyana</key>
+	<string>गुयाना</string>
+	<key>Haiti</key>
+	<string>हैती</string>
+	<key>Honduras</key>
+	<string>होंडुरस</string>
+	<key>Hong Kong</key>
+	<string>हाँग काँग</string>
+	<key>Hungary</key>
+	<string>हंगरी</string>
+	<key>Iceland</key>
+	<string>आइसलैंड</string>
+	<key>India</key>
+	<string>भारत</string>
+	<key>Indonesia</key>
+	<string>इंडोनेशिया</string>
+	<key>Iran</key>
+	<string>ईरान</string>
+	<key>Iraq</key>
+	<string>इराक़</string>
+	<key>Ireland</key>
+	<string>आयरलैंड</string>
+	<key>Israel</key>
+	<string>इज़राइल</string>
+	<key>Italy</key>
+	<string>इटली</string>
+	<key>Japan</key>
+	<string>जापान</string>
+	<key>Jordan</key>
+	<string>जॉर्डन</string>
+	<key>Kenya</key>
+	<string>केन्या</string>
+	<key>Korea</key>
+	<string>कोरिया</string>
+	<key>Kuwait</key>
+	<string>कुवैत</string>
+	<key>Lebanon</key>
+	<string>लेबनान</string>
+	<key>Liberia</key>
+	<string>लाइबेरिया</string>
+	<key>Libya</key>
+	<string>लीबिया</string>
+	<key>Madagascar</key>
+	<string>मैडागास्कर</string>
+	<key>Malaysia</key>
+	<string>मलेशिया</string>
+	<key>Maldives</key>
+	<string>मालदीव</string>
+	<key>Mali</key>
+	<string>माली</string>
+	<key>Mauritania</key>
+	<string>मॉरिटानिया</string>
+	<key>Mauritius</key>
+	<string>मॉरिशस</string>
+	<key>Mexico</key>
+	<string>मेक्सिको</string>
+	<key>Mongolia</key>
+	<string>मंगोलिया</string>
+	<key>Morocco</key>
+	<string>मोरक्को</string>
+	<key>Mozambique</key>
+	<string>मोज़ांबिक</string>
+	<key>Nepal</key>
+	<string>नेपाल</string>
+	<key>Netherlands</key>
+	<string>नीदरलैंड</string>
+	<key>New Caledonia</key>
+	<string>न्यू कैलेडोनिया</string>
+	<key>New Zealand</key>
+	<string>न्यूज़ीलैंड</string>
+	<key>Nicaragua</key>
+	<string>निकारागुआ</string>
+	<key>Nigeria</key>
+	<string>नाइजीरिया</string>
+	<key>North Korea</key>
+	<string>उत्तर कोरिया</string>
+	<key>Norway</key>
+	<string>नॉर्वे</string>
+	<key>Oman</key>
+	<string>ओमान</string>
+	<key>Pakistan</key>
+	<string>पाकिस्तान</string>
+	<key>Panama</key>
+	<string>पनामा</string>
+	<key>Paraguay</key>
+	<string>पराग्वे</string>
+	<key>Peru</key>
+	<string>पेरू</string>
+	<key>Philippines</key>
+	<string>फ़िलिपींस</string>
+	<key>Poland</key>
+	<string>पोलैंड</string>
+	<key>Portugal</key>
+	<string>पुर्तगाल</string>
+	<key>Puerto Rico</key>
+	<string>पोर्टो रिको</string>
+	<key>Qatar</key>
+	<string>क़तर</string>
+	<key>Romania</key>
+	<string>रोमानिया</string>
+	<key>Russia</key>
+	<string>रूस</string>
+	<key>Samoa</key>
+	<string>समोआ</string>
+	<key>Saudi Arabia</key>
+	<string>सउदी अरब</string>
+	<key>Scotland</key>
+	<string>स्कॉटलैंड</string>
+	<key>Senegal</key>
+	<string>सेनेगल</string>
+	<key>Serbia and Montenegro</key>
+	<string>सर्बिया और माँटेनेग्रो</string>
+	<key>Seychelles</key>
+	<string>सेशल्स</string>
+	<key>Sierra Leone</key>
+	<string>सिएरा लियोन</string>
+	<key>Singapore</key>
+	<string>सिंगापुर</string>
+	<key>Slovakia</key>
+	<string>स्लोवाकिया</string>
+	<key>Slovenia</key>
+	<string>स्लोवेनिया</string>
+	<key>Somalia</key>
+	<string>सोमालिया</string>
+	<key>South Africa</key>
+	<string>दक्षिण अफ़्रीका</string>
+	<key>South Georgia</key>
+	<string>दक्षिण जॉर्जिया</string>
+	<key>Spain</key>
+	<string>स्पेन</string>
+	<key>Sri Lanka</key>
+	<string>श्रीलंका</string>
+	<key>Sudan</key>
+	<string>सूडान</string>
+	<key>Surinam</key>
+	<string>सुरीनाम</string>
+	<key>Sweden</key>
+	<string>स्वीडन</string>
+	<key>Switzerland</key>
+	<string>स्विट्ज़रलैंड</string>
+	<key>Syria</key>
+	<string>सीरिया</string>
+	<key>Taiwan</key>
+	<string>ताइवान</string>
+	<key>Tanzania</key>
+	<string>तंज़ानिया</string>
+	<key>Thailand</key>
+	<string>थाईलैंड</string>
+	<key>Tunisia</key>
+	<string>ट्यूनिशिया</string>
+	<key>Turkey</key>
+	<string>टर्की</string>
+	<key>Turkmenistan</key>
+	<string>तुर्कमेनिस्तान</string>
+	<key>U.A.E.</key>
+	<string>सं. अ. अ.</string>
+	<key>U.S.A.</key>
+	<string>यू॰एस॰ए॰</string>
+	<key>UTC</key>
+	<string>यूटीसी</string>
+	<key>Uganda</key>
+	<string>युगांडा</string>
+	<key>Ukraine</key>
+	<string>यूक्रेन</string>
+	<key>Unknown</key>
+	<string>अज्ञात</string>
+	<key>Uruguay</key>
+	<string>उरुग्वे</string>
+	<key>Uzbekistan</key>
+	<string>उज़्बेकिस्तान</string>
+	<key>Venezuela</key>
+	<string>वेनेज़ुएला</string>
+	<key>Vietnam</key>
+	<string>वियतनाम</string>
+	<key>Wales</key>
+	<string>वेल्स</string>
+	<key>Yemen</key>
+	<string>यमन</string>
+	<key>Zaire</key>
+	<string>कांगो लोकतांत्रिक गणराज्य</string>
+	<key>Zambia</key>
+	<string>ज़ांबिया</string>
+	<key>Zimbabwe</key>
+	<string>ज़िंबाब्वे</string>
+</dict>
+</plist>
