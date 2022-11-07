@@ -6,11 +6,23 @@ extension TimeZone {
         Location.all
     }
     
+    public static var locationDictionary: [String: Location] {
+        Location.dictionary
+    }
+    
+    public var location: Location? {
+        Location.dictionary[self.identifier]
+    }
+    
     public struct Location: Codable, Identifiable, Equatable, Hashable {
         static let all: [Location] = {
             let url = Bundle.module.url(forResource: "Identifiers", withExtension: "plist")!
             let data = try! Data(contentsOf: url)
             return try! PropertyListDecoder().decode([Location].self, from: data)
+        }()
+        
+        static let dictionary: [String: Location] = {
+            Dictionary(uniqueKeysWithValues: Location.all.map({ ($0.identifier, $0) }))
         }()
         
         public var id: String { return "\(self.city), \(self.country) (\(identifier))" }

@@ -14,6 +14,7 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             List {
+                Text(TimeZone.current.identifier)
                 ForEach(TimeZone.knownTimeZoneLocations) { location in
                     NavigationLink(destination: {
                         self.map(for: location.coordinates)
@@ -23,7 +24,7 @@ struct ContentView: View {
                                 Text("\(location.localizedCity), \(location.localizedCountry)")
                                     .font(.headline)
                                 Spacer()
-                                Text(location.timeZone.localizedName(for: .shortGeneric, locale: .current) ?? "")
+                                Text(location.timeZone.localizedName(for: .shortStandard, locale: .current) ?? "")
                                     .font(.body)
                             }
                             HStack {
