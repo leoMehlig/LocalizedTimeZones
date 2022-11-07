@@ -22,7 +22,7 @@ extension TimeZone {
         }()
         
         static let dictionary: [String: Location] = {
-            Dictionary(uniqueKeysWithValues: Location.all.map({ ($0.identifier, $0) }))
+            Dictionary(Location.all.map({ ($0.identifier, $0) }), uniquingKeysWith: { element, _ in element })
         }()
         
         public var id: String { return "\(self.city), \(self.country) (\(identifier))" }
@@ -48,7 +48,7 @@ extension TimeZone {
             Bundle.module.localizedString(forKey: self.country, value: nil, table: "Countries")
         }
         /// the timeZone name as string
-        let identifier: String
+        public let identifier: String
         
         
         public var timeZone: TimeZone! {

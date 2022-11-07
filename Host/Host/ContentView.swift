@@ -14,7 +14,7 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             List {
-                Text(TimeZone.current.identifier)
+                Text(TimeZone.current.location?.localizedCity ?? "")
                 ForEach(TimeZone.knownTimeZoneLocations) { location in
                     NavigationLink(destination: {
                         self.map(for: location.coordinates)
