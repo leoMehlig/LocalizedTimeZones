@@ -18,7 +18,8 @@ let package = Package(
         .target(
             name: "LocalizedTimeZones",
             resources: [
-                .process("Identifiers.plist")
+                .process("Identifiers.plist"),
+                .process("Resources")
             ])
     ]
 )
