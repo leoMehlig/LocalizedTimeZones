@@ -49,14 +49,14 @@ extension TimeZone {
         let longitude: Double
         
         /// Unlocalized version of City
-        let city: String
+        public let city: String
         
         /// Localized city name
         public var localizedCity: String {
             Bundle.module.localizedString(forKey: self.city, value: nil, table: "Cities")
         }
         /// Unlocalized version of Country
-        let country: String
+        public let country: String
         
         /// Localized country name
         public var localizedCountry: String {
