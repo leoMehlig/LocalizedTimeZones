@@ -10,17 +10,30 @@ import LocalizedTimeZones
 import CoreLocation
 import MapKit
 
+
 struct ContentView: View {
+    
+    var cont: Set<String> {
+        Set(TimeZone.locationDictionary.keys.map({ $0.components(separatedBy: "/").first! }))
+    }
     var body: some View {
         NavigationView {
             List {
-                Text(TimeZone.current.location?.localizedCity ?? "")
-                ForEach(TimeZone.knownTimeZoneLocations) { location in
+                Section {
+                    ForEach(Array(cont).sorted(), id: \.self) {
+                        Text($0)
+                    }
+                }
+                .onAppear {
+                  print(Set(TimeZone.knownTimeZoneIdentifiers.map({ $0.components(separatedBy: "/").first! })))
+                }
+                ForEach(TimeZone.knownTimeZoneLocations.filter({ $0.timeZone.symbol == "globe" })) { location in
                     NavigationLink(destination: {
                         self.map(for: location.coordinates)
                     }) {
                         VStack(spacing: 6) {
                             HStack {
+                                Image(systemName: location.timeZone.symbol)
                                 Text("\(location.localizedCity), \(location.localizedCountry)")
                                     .font(.headline)
                                 Spacer()
@@ -28,9 +41,10 @@ struct ContentView: View {
                                     .font(.body)
                             }
                             HStack {
-                                Text(String(format: "%.2f, %.2f", location.coordinates.longitude, location.coordinates.latitude))
-                                    .foregroundColor(.secondary)
-                                    .font(.subheadline)
+                                Text(location.identifier)
+//                                Text(String(format: "%.2f, %.2f", location.coordinates.longitude, location.coordinates.latitude))
+//                                    .foregroundColor(.secondary)
+//                                    .font(.subheadline)
                                 Spacer()
                             }
                         }

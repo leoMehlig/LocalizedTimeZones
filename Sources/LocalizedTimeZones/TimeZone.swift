@@ -14,6 +14,21 @@ extension TimeZone {
         Location.dictionary[self.identifier]
     }
     
+    public var symbol: String {
+        switch self.identifier.components(separatedBy: "/").first {
+        case "America"?, "Pacific"?, "US"?, "Canada"?, "Brazil"?:
+            return "globe.americas.fill"
+        case "Europe"?, "Africa"?, "GMT"?, "UTC"?, "Atlantic"?:
+            return "globe.europe.africa.fill"
+        case "Asia"?, "Indian"?:
+            return "globe.central.south.asia.fill"
+        case "Australia"?:
+            return "globe.asia.australia.fill"
+        default:
+            return "globe"
+        }
+    }
+    
     public struct Location: Codable, Identifiable, Equatable, Hashable {
         static let all: [Location] = {
             let url = Bundle.module.url(forResource: "Identifiers", withExtension: "plist")!
