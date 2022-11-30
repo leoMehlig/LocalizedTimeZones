@@ -29,7 +29,7 @@ struct ContentView: View {
                     }
                 }
                 .task {
-                    await TimeZone.loadMissing()
+//                    await TimeZone.loadMissing()
                 }
                 ForEach(TimeZone.knownTimeZoneLocations) { location in
                     NavigationLink(destination: {
