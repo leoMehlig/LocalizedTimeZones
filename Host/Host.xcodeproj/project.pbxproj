@@ -12,8 +12,6 @@
 		B383A51F2918371B002B1530 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B383A51E2918371B002B1530 /* Assets.xcassets */; };
 		B383A5222918371B002B1530 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B383A5212918371B002B1530 /* Preview Assets.xcassets */; };
 		B383A52B2918378A002B1530 /* LocalizedTimeZones in Frameworks */ = {isa = PBXBuildFile; productRef = B383A52A2918378A002B1530 /* LocalizedTimeZones */; };
-		B3BB8BF82936822B00481930 /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3BB8BF72936822A00481930 /* AddressBook.framework */; };
-		B3BB8BFA2936823100481930 /* AddressBookUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3BB8BF92936823100481930 /* AddressBookUI.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,8 +30,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B3BB8BF82936822B00481930 /* AddressBook.framework in Frameworks */,
-				B3BB8BFA2936823100481930 /* AddressBookUI.framework in Frameworks */,
 				B383A52B2918378A002B1530 /* LocalizedTimeZones in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

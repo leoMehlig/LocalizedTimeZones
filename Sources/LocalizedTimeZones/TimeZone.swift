@@ -12,7 +12,14 @@ extension TimeZone {
     }
     
     public var location: Location? {
-        Location.dictionary[self.identifier]
+        if let location = Location.dictionary[self.identifier] {
+            return location
+        } else {
+            let abbr = self.abbreviation()
+            return Self.knownTimeZoneLocations.first(where: {
+                $0.timeZone.abbreviation() == abbr
+            })
+        }
     }
     
     public var symbol: String {
