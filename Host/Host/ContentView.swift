@@ -9,25 +9,29 @@ import SwiftUI
 import LocalizedTimeZones
 import CoreLocation
 import MapKit
+import Contacts
 
 
 struct ContentView: View {
     
-    var cont: Set<String> {
-        Set(TimeZone.locationDictionary.keys.map({ $0.components(separatedBy: "/").first! }))
+    var unknown: [String] {
+        TimeZone.knownTimeZoneIdentifiers.filter({ TimeZone(identifier: $0)?.location == nil })
     }
+  
     var body: some View {
         NavigationView {
             List {
                 Section {
-                    ForEach(Array(cont).sorted(), id: \.self) {
-                        Text($0)
+                    DisclosureGroup("Unknown Identifiers") {
+                        ForEach(Array(unknown).sorted(), id: \.self) {
+                            Text($0)
+                        }
                     }
                 }
-                .onAppear {
-                  print(Set(TimeZone.knownTimeZoneIdentifiers.map({ $0.components(separatedBy: "/").first! })))
+                .task {
+                    await TimeZone.loadMissing()
                 }
-                ForEach(TimeZone.knownTimeZoneLocations.filter({ $0.timeZone.symbol == "globe" })) { location in
+                ForEach(TimeZone.knownTimeZoneLocations) { location in
                     NavigationLink(destination: {
                         self.map(for: location.coordinates)
                     }) {
@@ -37,7 +41,7 @@ struct ContentView: View {
                                 Text("\(location.localizedCity), \(location.localizedCountry)")
                                     .font(.headline)
                                 Spacer()
-                                Text(location.timeZone.localizedName(for: .shortStandard, locale: .current) ?? "")
+                                Text(location.timeZone.localizedName(for: .shortGeneric, locale: .current) ?? "")
                                     .font(.body)
                             }
                             HStack {

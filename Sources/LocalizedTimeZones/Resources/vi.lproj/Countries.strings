@@ -1,284 +1,235 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>Afghanistan</key>
-	<string>Afghanistan</string>
-	<key>Algeria</key>
-	<string>Algeria</string>
-	<key>Angola</key>
-	<string>Angola</string>
-	<key>Argentina</key>
-	<string>Argentina</string>
-	<key>Armenia</key>
-	<string>Armenia</string>
-	<key>Australia</key>
-	<string>Úc</string>
-	<key>Austria</key>
-	<string>Áo</string>
-	<key>Azerbaijan</key>
-	<string>Azerbaijan</string>
-	<key>Bahrain</key>
-	<string>Bahrain</string>
-	<key>Bangladesh</key>
-	<string>Bangladesh</string>
-	<key>Barbados</key>
-	<string>Barbados</string>
-	<key>Belgium</key>
-	<string>Bỉ</string>
-	<key>Bolivia</key>
-	<string>Bolivia</string>
-	<key>Brazil</key>
-	<string>Brazil</string>
-	<key>Bulgaria</key>
-	<string>Bun-ga-ri</string>
-	<key>Burkina Faso</key>
-	<string>Burkina Faso</string>
-	<key>Burma</key>
-	<string>Burma</string>
-	<key>Cambodia</key>
-	<string>Campuchia</string>
-	<key>Cameroon</key>
-	<string>Cameroon</string>
-	<key>Canada</key>
-	<string>Canada</string>
-	<key>Central African Republic</key>
-	<string>Cộng hòa Trung Phi</string>
-	<key>Chad</key>
-	<string>Chad</string>
-	<key>Chile</key>
-	<string>Chile</string>
-	<key>China</key>
-	<string>Trung Quốc</string>
-	<key>Colombia</key>
-	<string>Colombia</string>
-	<key>Costa Rica</key>
-	<string>Costa Rica</string>
-	<key>Croatia</key>
-	<string>Croatia</string>
-	<key>Cuba</key>
-	<string>Cuba</string>
-	<key>Czech Republic</key>
-	<string>Cộng hòa Séc</string>
-	<key>Denmark</key>
-	<string>Đan Mạch</string>
-	<key>Djibouti</key>
-	<string>Djibouti</string>
-	<key>Dominican Republic</key>
-	<string>Cộng hòa Dominica</string>
-	<key>Ecuador</key>
-	<string>Ecuador</string>
-	<key>Egypt</key>
-	<string>Ai Cập</string>
-	<key>El Salvador</key>
-	<string>El Salvador</string>
-	<key>England</key>
-	<string>England</string>
-	<key>Eritrea</key>
-	<string>Eritrea</string>
-	<key>Ethiopia</key>
-	<string>Ethiopia</string>
-	<key>Finland</key>
-	<string>Phần Lan</string>
-	<key>France</key>
-	<string>Pháp</string>
-	<key>French Guiana</key>
-	<string>Guiana thuộc Pháp</string>
-	<key>Germany</key>
-	<string>Đức</string>
-	<key>Ghana</key>
-	<string>Ghana</string>
-	<key>Greece</key>
-	<string>Hy Lạp</string>
-	<key>Greenland</key>
-	<string>Greenland</string>
-	<key>Guatemala</key>
-	<string>Guatemala</string>
-	<key>Guinea</key>
-	<string>Guinée</string>
-	<key>Guyana</key>
-	<string>Guyana</string>
-	<key>Haiti</key>
-	<string>Haiti</string>
-	<key>Honduras</key>
-	<string>Honduras</string>
-	<key>Hong Kong</key>
-	<string>Hồng Kông</string>
-	<key>Hungary</key>
-	<string>Hungary</string>
-	<key>Iceland</key>
-	<string>Iceland</string>
-	<key>India</key>
-	<string>Ấn Độ</string>
-	<key>Indonesia</key>
-	<string>Indonesia</string>
-	<key>Iran</key>
-	<string>Iran</string>
-	<key>Iraq</key>
-	<string>Iraq</string>
-	<key>Ireland</key>
-	<string>Ireland</string>
-	<key>Israel</key>
-	<string>Israel</string>
-	<key>Italy</key>
-	<string>Ý</string>
-	<key>Japan</key>
-	<string>Nhật Bản</string>
-	<key>Jordan</key>
-	<string>Jordan</string>
-	<key>Kenya</key>
-	<string>Kenya</string>
-	<key>Korea</key>
-	<string>Hàn Quốc</string>
-	<key>Kuwait</key>
-	<string>Kuwait</string>
-	<key>Lebanon</key>
-	<string>Li-băng</string>
-	<key>Liberia</key>
-	<string>Liberia</string>
-	<key>Libya</key>
-	<string>Libya</string>
-	<key>Madagascar</key>
-	<string>Madagascar</string>
-	<key>Malaysia</key>
-	<string>Malaysia</string>
-	<key>Maldives</key>
-	<string>Maldives</string>
-	<key>Mali</key>
-	<string>Mali</string>
-	<key>Mauritania</key>
-	<string>Mauritanie</string>
-	<key>Mauritius</key>
-	<string>Mauritius</string>
-	<key>Mexico</key>
-	<string>Mê hi cô</string>
-	<key>Mongolia</key>
-	<string>Mông Cổ</string>
-	<key>Morocco</key>
-	<string>Ma-rốc</string>
-	<key>Mozambique</key>
-	<string>Mozambique</string>
-	<key>Nepal</key>
-	<string>Nepal</string>
-	<key>Netherlands</key>
-	<string>Hà Lan</string>
-	<key>New Caledonia</key>
-	<string>New Caledonia</string>
-	<key>New Zealand</key>
-	<string>New Zealand</string>
-	<key>Nicaragua</key>
-	<string>Nicaragua</string>
-	<key>Nigeria</key>
-	<string>Nigeria</string>
-	<key>North Korea</key>
-	<string>Triều Tiên</string>
-	<key>Norway</key>
-	<string>Na Uy</string>
-	<key>Oman</key>
-	<string>Oman</string>
-	<key>Pakistan</key>
-	<string>Pakistan</string>
-	<key>Panama</key>
-	<string>Panama</string>
-	<key>Paraguay</key>
-	<string>Paraguay</string>
-	<key>Peru</key>
-	<string>Peru</string>
-	<key>Philippines</key>
-	<string>Philippin</string>
-	<key>Poland</key>
-	<string>Ba Lan</string>
-	<key>Portugal</key>
-	<string>Bồ Đào Nha</string>
-	<key>Puerto Rico</key>
-	<string>Puerto Rico</string>
-	<key>Qatar</key>
-	<string>Qatar</string>
-	<key>Romania</key>
-	<string>Romania</string>
-	<key>Russia</key>
-	<string>Nga</string>
-	<key>Samoa</key>
-	<string>Samoa</string>
-	<key>Saudi Arabia</key>
-	<string>Ả Rập Xê-út</string>
-	<key>Scotland</key>
-	<string>Scotland</string>
-	<key>Senegal</key>
-	<string>Senegal</string>
-	<key>Serbia and Montenegro</key>
-	<string>Serbia và Montenegro</string>
-	<key>Seychelles</key>
-	<string>Seychelles</string>
-	<key>Sierra Leone</key>
-	<string>Sierra Leone</string>
-	<key>Singapore</key>
-	<string>Singapore</string>
-	<key>Slovakia</key>
-	<string>Slovakia</string>
-	<key>Slovenia</key>
-	<string>Slovenia</string>
-	<key>Somalia</key>
-	<string>Somalia</string>
-	<key>South Africa</key>
-	<string>Nam Phi</string>
-	<key>South Georgia</key>
-	<string>South Georgia</string>
-	<key>Spain</key>
-	<string>Tây Ban Nha</string>
-	<key>Sri Lanka</key>
-	<string>Sri Lanka</string>
-	<key>Sudan</key>
-	<string>Sudan</string>
-	<key>Surinam</key>
-	<string>Surinam</string>
-	<key>Sweden</key>
-	<string>Thụy Điển</string>
-	<key>Switzerland</key>
-	<string>Thụy Sỹ</string>
-	<key>Syria</key>
-	<string>Syria</string>
-	<key>Taiwan</key>
-	<string>Đài Loan</string>
-	<key>Tanzania</key>
-	<string>Tanzania</string>
-	<key>Thailand</key>
-	<string>Thái Lan</string>
-	<key>Tunisia</key>
-	<string>Tunisia</string>
-	<key>Turkey</key>
-	<string>Thổ Nhĩ Kỳ</string>
-	<key>Turkmenistan</key>
-	<string>Turkmenistan</string>
-	<key>U.A.E.</key>
-	<string>U.A.E.</string>
-	<key>U.S.A.</key>
-	<string>Mỹ</string>
-	<key>UTC</key>
-	<string>UTC</string>
-	<key>Uganda</key>
-	<string>Uganda</string>
-	<key>Ukraine</key>
-	<string>Ucraina</string>
-	<key>Unknown</key>
-	<string>Không xác định</string>
-	<key>Uruguay</key>
-	<string>Uruguay</string>
-	<key>Uzbekistan</key>
-	<string>Uzbekistan</string>
-	<key>Venezuela</key>
-	<string>Venezuela</string>
-	<key>Vietnam</key>
-	<string>Việt Nam</string>
-	<key>Wales</key>
-	<string>Wales</string>
-	<key>Yemen</key>
-	<string>Yemen</string>
-	<key>Zaire</key>
-	<string>Cộng hòa Dân chủ Congo</string>
-	<key>Zambia</key>
-	<string>Zambia</string>
-	<key>Zimbabwe</key>
-	<string>Zimbabwe</string>
-</dict>
-</plist>
+"" = "";
+"Afghanistan" = "Afghanistan";
+"Albania" = "Albania";
+"Algeria" = "Algeria";
+"Andorra" = "Andorra";
+"Angola" = "Angola";
+"Anguilla" = "Anguilla";
+"Antigua and Barbuda" = "Antigua và Barbuda";
+"Argentina" = "Argentina";
+"Armenia" = "Armenia";
+"Aruba" = "Aruba";
+"Australia" = "Úc";
+"Austria" = "Áo";
+"Azerbaijan" = "Azerbaijan";
+"Bahamas" = "Bahamas";
+"Bahrain" = "Bahrain";
+"Bangladesh" = "Bangladesh";
+"Barbados" = "Barbados";
+"Belarus" = "Belarus";
+"Belgium" = "Bỉ";
+"Belize" = "Belize";
+"Benin" = "Benin";
+"Bermuda" = "Bermuda";
+"Bhutan" = "Bhutan";
+"Bolivia" = "Bolivia";
+"Bosnia and Herzegovina" = "Bosnia và Herzegovina";
+"Botswana" = "Botswana";
+"Brazil" = "Braxin";
+"British Virgin Islands" = "Đảo British Virgin";
+"Brunei" = "Brunei";
+"Bulgaria" = "Bun-ga-ri";
+"Burkina Faso" = "Burkina Faso";
+"Burma" = "Burma";
+"Burundi" = "Burundi";
+"Cambodia" = "Campuchia";
+"Cameroon" = "Cameroon";
+"Canada" = "Canada";
+"Cape Verde" = "Cape Verde";
+"Caribbean Netherlands" = "Ca-ri-bê Hà Lan";
+"Cayman Islands" = "Quần đảo Cayman";
+"Central African Republic" = "Cộng hòa Trung Phi";
+"Chad" = "Chad";
+"Chile" = "Chilê";
+"China" = "Trung Quốc";
+"Colombia" = "Colombia";
+"Comoros" = "Comoros";
+"Congo" = "Cộng hòa Congo";
+"Cook Islands" = "Quần đảo Cook";
+"Costa Rica" = "Costa Rica";
+"Croatia" = "Croatia";
+"Cuba" = "Cuba";
+"Curaçao" = "Curaçao";
+"Cyprus" = "Síp";
+"Czech Republic" = "Cộng hòa Séc";
+"Côte d’Ivoire" = "Cốt Đi-voa";
+"Democratic Republic of the Congo" = "Cộng hòa Dân chủ Congo";
+"Denmark" = "Đan Mạch";
+"Djibouti" = "Djibouti";
+"Dominica" = "Dominica";
+"Dominican Republic" = "Cộng hòa Dominica";
+"Ecuador" = "Ecuador";
+"Egypt" = "Ai Cập";
+"El Salvador" = "El Salvador";
+"England" = "England";
+"Equatorial Guinea" = "Guinea Xích Đạo";
+"Eritrea" = "Eritrea";
+"Estonia" = "Extônia";
+"Eswatini" = "Swaziland";
+"Ethiopia" = "Ethiopia";
+"Falkland Islands" = "Quần đảo Falkland";
+"Famagusta" = "Famagusta";
+"Faroe Islands" = "Quần đảo Faroe";
+"Fiji" = "Phigi";
+"Finland" = "Phần Lan";
+"France" = "Pháp";
+"French Guiana" = "Guiana thuộc Pháp";
+"French Polynesia" = "Polynesia thuộc Pháp";
+"Gabon" = "Gabon";
+"Gambia" = "Gambia";
+"Gaza" = "Gaza";
+"Georgia" = "Georgia";
+"Germany" = "Đức";
+"Ghana" = "Ghana";
+"Gibraltar" = "Gibraltar";
+"Greece" = "Hy Lạp";
+"Greenland" = "Greenland";
+"Grenada" = "Grenada";
+"Guadeloupe" = "Guadeloupe";
+"Guatemala" = "Guatemala";
+"Guinea" = "Guinée";
+"Guinea-Bissau" = "Guinea-Bissau";
+"Guyana" = "Guyana";
+"Haiti" = "Haiti";
+"Honduras" = "Honduras";
+"Hungary" = "Hungary";
+"Iceland" = "Iceland";
+"India" = "Ấn Độ";
+"Indonesia" = "Indonesia";
+"Iran" = "Iran";
+"Iraq" = "Iraq";
+"Ireland" = "Ireland";
+"Israel" = "Israel";
+"Italy" = "Ý";
+"Jamaica" = "Jamaica";
+"Japan" = "Nhật Bản";
+"Jordan" = "Jordan";
+"Kazakhstan" = "Cadắcxtan";
+"Kenya" = "Kenya";
+"Kiribati" = "Kiribati";
+"Korea" = "Hàn Quốc";
+"Kuwait" = "Kuwait";
+"Kyrgyzstan" = "Cưrơgưdơxtan";
+"Laayoune" = "Laayoune";
+"Laos" = "Lào";
+"Latvia" = "Látvia";
+"Lebanon" = "Li-băng";
+"Lesotho" = "Lêxôthô";
+"Liberia" = "Liberia";
+"Libya" = "Libya";
+"Liechtenstein" = "Líttenxơtên";
+"Lithuania" = "Litva";
+"Luxembourg" = "Lúcxămbua";
+"Macao SAR, China" = "Ma Cao SAR, Trung Quốc";
+"Madagascar" = "Madagascar";
+"Malawi" = "Ma-la-uy";
+"Malaysia" = "Malayxia";
+"Maldives" = "Maldives";
+"Mali" = "Mali";
+"Malta" = "Manta";
+"Marshall Islands" = "Quần đảo Marshall";
+"Martinique" = "Martinique";
+"Mauritania" = "Mauritanie";
+"Mauritius" = "Mauritius";
+"Mayotte" = "Mayotte";
+"Mexico" = "Mêhicô";
+"Micronesia" = "Micronesia";
+"Moldova" = "Mônđôva";
+"Monaco" = "Mônacô";
+"Mongolia" = "Mông Cổ";
+"Montenegro" = "Môngtênêgrô";
+"Montserrat" = "Montserrat";
+"Morocco" = "Ma-rốc";
+"Mozambique" = "Mozambique";
+"Myanmar (Burma)" = "Mianma";
+"Namibia" = "Namibia";
+"Nauru" = "Nauru";
+"Nepal" = "Nêpan";
+"Netherlands" = "Hà Lan";
+"New Caledonia" = "New Caledonia";
+"New Zealand" = "New Zealand";
+"Nicaragua" = "Nicaragua";
+"Niger" = "Nigiê";
+"Nigeria" = "Nigeria";
+"Niue" = "Niue";
+"North Korea" = "Triều Tiên";
+"North Macedonia" = "Bắc Macedonia";
+"Northern Mariana Islands" = "Quần đảo Bắc Mariana";
+"Norway" = "Na Uy";
+"Oman" = "Oman";
+"Pakistan" = "Pakistan";
+"Palau" = "Palau";
+"Panama" = "Panama";
+"Papua New Guinea" = "Papua Niu Ghinê";
+"Paraguay" = "Paraguay";
+"Peru" = "Peru";
+"Philippines" = "Philippin";
+"Pitcairn Islands" = "Quần đảo Pitcairn";
+"Poland" = "Ba Lan";
+"Portugal" = "Bồ Đào Nha";
+"Puerto Rico" = "Puerto Rico";
+"Qatar" = "Qatar";
+"Romania" = "Romania";
+"Russia" = "Liên Bang Nga";
+"Rwanda" = "Ruanđa";
+"Réunion" = "Đảo Reunion";
+"Saint Barthélemy" = "Saint Barthélemy";
+"Saint Helena, Ascension and Tristan da Cunha " = "Saint Helena";
+"Saint Kitts and Nevis" = "Saint Kitts và Nevis";
+"Saint Lucia" = "Saint Lucia";
+"Saint Pierre and Miquelon" = "Saint Pierre và Miquelon";
+"Samoa" = "Xamoa";
+"San Marino" = "San Marinô";
+"Sao Tome and Principe" = "Sao Tome và Principe";
+"Saudi Arabia" = "Ả Rập Xê-út";
+"Scotland" = "Scotland";
+"Senegal" = "Senegal";
+"Serbia and Montenegro" = "Serbia và Montenegro";
+"Seychelles" = "Seychelles";
+"Sierra Leone" = "Sierra Leone";
+"Singapore" = "Singapore";
+"Slovakia" = "Slovakia";
+"Slovenia" = "Slovenia";
+"Solomon Islands" = "Quần đảo Solomon";
+"Somalia" = "Somalia";
+"South Africa" = "Nam Phi";
+"South Georgia" = "South Georgia";
+"South Sudan" = "Nam Sudan";
+"Spain" = "Tây Ban Nha";
+"Sri Lanka" = "Sri Lanka";
+"Sudan" = "Sudan";
+"Surinam" = "Surinam";
+"Svalbard and Jan Mayen" = "Svalbard và Jan Mayen";
+"Sweden" = "Thụy Điển";
+"Switzerland" = "Thụy Sỹ";
+"Syria" = "Xiri";
+"Tajikistan" = "Tátgikixtan";
+"Tanzania" = "Tanzania";
+"Thailand" = "Thái Lan";
+"Timor-Leste" = "Timo Lexte";
+"Togo" = "Togo";
+"Trinidad and Tobago" = "Trinidad và Tobago";
+"Tunisia" = "Tunisia";
+"Turkey" = "Thổ Nhĩ Kỳ";
+"Turkmenistan" = "Turkmenistan";
+"Turks and Caicos Islands" = "Quần đảo Turks và Caicos";
+"Tuvalu" = "Tuvalu";
+"U.A.E." = "U.A.E.";
+"U.S.A." = "Mỹ";
+"UTC" = "UTC";
+"Uganda" = "Uganda";
+"Ukraine" = "Ukraine";
+"United Kingdom" = "Vương quốc Anh";
+"United States" = "Hiệp Chủng Quốc Hoa Kỳ";
+"Uruguay" = "Uruguay";
+"Uzbekistan" = "Uzbekistan";
+"Vanuatu" = "Vanuatu";
+"Vatican City" = "Thành Vatican";
+"Venezuela" = "Venezuela";
+"Vietnam" = "Việt Nam";
+"Wales" = "Wales";
+"Yemen" = "Yemen";
+"Zaire" = "Cộng hòa Dân chủ Congo";
+"Zambia" = "Zambia";
+"Zimbabwe" = "Zimbabwe";
+"Åland Islands" = "Quần đảo Åland";

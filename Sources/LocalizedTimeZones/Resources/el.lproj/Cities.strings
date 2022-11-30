@@ -1,430 +1,428 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>Abu Dhabi</key>
-	<string>Άμπου Ντάμπι</string>
-	<key>Accra</key>
-	<string>Άκρα</string>
-	<key>Adak</key>
-	<string>Αδάκ</string>
-	<key>Addis Ababa</key>
-	<string>Αντίς Αμπέμπα</string>
-	<key>Adelaide</key>
-	<string>Αδελαΐδα</string>
-	<key>Algiers</key>
-	<string>Αλγέρι</string>
-	<key>Amman</key>
-	<string>Αμμάν</string>
-	<key>Amsterdam</key>
-	<string>Άμστερνταμ</string>
-	<key>Anadyr</key>
-	<string>Αναδύρ</string>
-	<key>Anchorage</key>
-	<string>Άνκορατζ</string>
-	<key>Ankara</key>
-	<string>Άγκυρα</string>
-	<key>Antananarivo</key>
-	<string>Ανταναναρίβο</string>
-	<key>Ashgabat</key>
-	<string>Ασγκαμπάτ</string>
-	<key>Asmera</key>
-	<string>Ασμέρα</string>
-	<key>Asuncion</key>
-	<string>Ασουνσιόν</string>
-	<key>Athens</key>
-	<string>Αθήνα</string>
-	<key>Atlanta</key>
-	<string>Ατλάντα</string>
-	<key>Austin</key>
-	<string>Ώστιν</string>
-	<key>Baghdad</key>
-	<string>Βαγδάτη</string>
-	<key>Baku</key>
-	<string>Μπακού</string>
-	<key>Bamako</key>
-	<string>Μπαμάκο</string>
-	<key>Bangkok</key>
-	<string>Μπανγκόκ</string>
-	<key>Bangui</key>
-	<string>Μπάνγκουϊ</string>
-	<key>Beijing</key>
-	<string>Πεκίνο</string>
-	<key>Beirut</key>
-	<string>Βηρυτός</string>
-	<key>Belgrade</key>
-	<string>Βελιγράδι</string>
-	<key>Berlin</key>
-	<string>Βερολίνο</string>
-	<key>Blacksburg</key>
-	<string>Μπλάκσμπουργκ</string>
-	<key>Bogota</key>
-	<string>Μπογκοτά</string>
-	<key>Boston</key>
-	<string>Βοστόνη</string>
-	<key>Brasalia</key>
-	<string>Μπραζίλια</string>
-	<key>Bratislava</key>
-	<string>Μπρατισλάβα</string>
-	<key>Bridgetown</key>
-	<string>Μπρίτζταουν</string>
-	<key>Brisbane</key>
-	<string>Μπρίζμπεϊν</string>
-	<key>Brussels</key>
-	<string>Βρυξέλλες</string>
-	<key>Bucharest</key>
-	<string>Βουκουρέστι</string>
-	<key>Budapest</key>
-	<string>Βουδαπέστη</string>
-	<key>Buenos Aires</key>
-	<string>Μπουένος Άιρες</string>
-	<key>Cairo</key>
-	<string>Κάιρο</string>
-	<key>Calgary</key>
-	<string>Κάλγκαρι</string>
-	<key>Canberra</key>
-	<string>Καμπέρα</string>
-	<key>Canton</key>
-	<string>Καντόν</string>
-	<key>Cape Town</key>
-	<string>Κέιπ Τάουν</string>
-	<key>Caracas</key>
-	<string>Καράκας</string>
-	<key>Cardiff</key>
-	<string>Κάρντιφ</string>
-	<key>Cayenne</key>
-	<string>Καγιέν</string>
-	<key>Chennai</key>
-	<string>Τσενάι (Μαδράς)</string>
-	<key>Chicago</key>
-	<string>Σικάγο</string>
-	<key>Colombo</key>
-	<string>Κολόμπο</string>
-	<key>Columbus</key>
-	<string>Κολόμπους</string>
-	<key>Conakry</key>
-	<string>Κόνακρυ</string>
-	<key>Copenhagen</key>
-	<string>Κοπεγχάγη</string>
-	<key>Cork</key>
-	<string>Κορκ</string>
-	<key>Cupertino</key>
-	<string>Κουπερτίνο</string>
-	<key>Dakar</key>
-	<string>Ντακάρ</string>
-	<key>Dallas</key>
-	<string>Ντάλας</string>
-	<key>Damascus</key>
-	<string>Δαμασκός</string>
-	<key>Dar es Salaam</key>
-	<string>Νταρ Ες Σαλάμ</string>
-	<key>Darwin</key>
-	<string>Ντάργουιν</string>
-	<key>Denver</key>
-	<string>Ντένβερ</string>
-	<key>Detroit</key>
-	<string>Ντιτρόιτ</string>
-	<key>Dhaka</key>
-	<string>Ντάκα</string>
-	<key>Djibouti</key>
-	<string>Τζιμπουτί</string>
-	<key>Doha</key>
-	<string>Ντόχα</string>
-	<key>Douala</key>
-	<string>Ντουάλα</string>
-	<key>Dublin</key>
-	<string>Δουβλίνο</string>
-	<key>Edinburgh</key>
-	<string>Εδιμβούργο</string>
-	<key>Freetown</key>
-	<string>Φρήταουν</string>
-	<key>Geneva</key>
-	<string>Γενεύη</string>
-	<key>Georgetown</key>
-	<string>Τζορτζτάουν</string>
-	<key>Grytviken</key>
-	<string>Γκρίτβικεν</string>
-	<key>Guam</key>
-	<string>Γκουάμ</string>
-	<key>Guatemala</key>
-	<string>Γουατεμάλα</string>
-	<key>Halifax</key>
-	<string>Χάλιφαξ</string>
-	<key>Hamburg</key>
-	<string>Αμβούργο</string>
-	<key>Hanoi</key>
-	<string>Ανόι</string>
-	<key>Harare</key>
-	<string>Χαράρε</string>
-	<key>Havana</key>
-	<string>Αβάνα</string>
-	<key>Helsinki</key>
-	<string>Ελσίνκι</string>
-	<key>Hobart</key>
-	<string>Χόμπαρτ</string>
-	<key>Hong Kong</key>
-	<string>Χονγκ Κονγκ</string>
-	<key>Honolulu</key>
-	<string>Χονολουλού</string>
-	<key>Houston</key>
-	<string>Χιούστον</string>
-	<key>Indianapolis</key>
-	<string>Ινδιανάπολις</string>
-	<key>Islamabad</key>
-	<string>Ισλαμαμπάντ</string>
-	<key>Istanbul</key>
-	<string>Κωνσταντινούπολη</string>
-	<key>Jakarta</key>
-	<string>Τζακάρτα</string>
-	<key>Jerusalem</key>
-	<string>Ιερουσαλήμ</string>
-	<key>Kabul</key>
-	<string>Καμπούλ</string>
-	<key>Kampala</key>
-	<string>Καμπάλα</string>
-	<key>Katmandu</key>
-	<string>Κατμαντού</string>
-	<key>Khartoum</key>
-	<string>Χαρτούμ</string>
-	<key>Kiev</key>
-	<string>Κίεβο</string>
-	<key>Kinshasa</key>
-	<string>Κινσάσα</string>
-	<key>Knoxville</key>
-	<string>Νόξβιλ</string>
-	<key>Kolkata</key>
-	<string>Κολκάτα (Καλκούτα)</string>
-	<key>Krasnoyarsk</key>
-	<string>Κρασνογιάρσκ</string>
-	<key>Kuala Lumpur</key>
-	<string>Κουάλα Λουμπούρ</string>
-	<key>Kuwait</key>
-	<string>Κουβέιτ</string>
-	<key>La Paz</key>
-	<string>Λα Παζ</string>
-	<key>Lagos</key>
-	<string>Λάγκος</string>
-	<key>Lima</key>
-	<string>Λίμα</string>
-	<key>Lisbon</key>
-	<string>Λισαβόνα</string>
-	<key>Ljubljana</key>
-	<string>Λιουμπλιάνα</string>
-	<key>London</key>
-	<string>Λονδίνο</string>
-	<key>Los Angeles</key>
-	<string>Λος Άντζελες</string>
-	<key>Luanda</key>
-	<string>Λουάντα</string>
-	<key>Lusaka</key>
-	<string>Λουσάκα</string>
-	<key>Madrid</key>
-	<string>Μαδρίτη</string>
-	<key>Magadan</key>
-	<string>Μαγκαντάν</string>
-	<key>Male</key>
-	<string>Μάλε</string>
-	<key>Managua</key>
-	<string>Μανάγκουα</string>
-	<key>Manama</key>
-	<string>Μανάμα</string>
-	<key>Manchester</key>
-	<string>Μάντσεστερ</string>
-	<key>Manila</key>
-	<string>Μανίλα</string>
-	<key>Maputo</key>
-	<string>Μαπούτο</string>
-	<key>Mecca</key>
-	<string>Μέκκα</string>
-	<key>Melbourne</key>
-	<string>Μελβούρνη</string>
-	<key>Memphis</key>
-	<string>Μέμφις</string>
-	<key>Mexico City</key>
-	<string>Μέξικο Σίτυ</string>
-	<key>Miami</key>
-	<string>Μαϊάμι</string>
-	<key>Minneapolis</key>
-	<string>Μινεάπολις</string>
-	<key>Mogadisho</key>
-	<string>Μογκαντίσο</string>
-	<key>Monrovia</key>
-	<string>Μονροβία</string>
-	<key>Montevideo</key>
-	<string>Μοντεβιδέο</string>
-	<key>Montreal</key>
-	<string>Μόντρεαλ</string>
-	<key>Moscow</key>
-	<string>Μόσχα</string>
-	<key>Mumbai</key>
-	<string>Μουμπάι (Βομβάη)</string>
-	<key>Munich</key>
-	<string>Μόναχο</string>
-	<key>Muscat</key>
-	<string>Μουσκάτ</string>
-	<key>Nairobi</key>
-	<string>Ναϊρόμπι</string>
-	<key>Ndjamena</key>
-	<string>Ντζαμένα</string>
-	<key>New Delhi</key>
-	<string>Νέο Δελχί</string>
-	<key>New York</key>
-	<string>Νέα Υόρκη</string>
-	<key>Nouakchott</key>
-	<string>Νουακτσότ</string>
-	<key>Noumea</key>
-	<string>Νουμέα</string>
-	<key>Novosibirsk</key>
-	<string>Νοβοσιμπίρσκ</string>
-	<key>Nuuk</key>
-	<string>Νούουκ</string>
-	<key>Omsk</key>
-	<string>Ομσκ</string>
-	<key>Osaka</key>
-	<string>Οσάκα</string>
-	<key>Oslo</key>
-	<string>Όσλο</string>
-	<key>Ottawa</key>
-	<string>Οτάβα</string>
-	<key>Ougadougou</key>
-	<string>Ουγκαντούγκου</string>
-	<key>Pago Pago</key>
-	<string>Πάγκο Πάγκο</string>
-	<key>Panama</key>
-	<string>Παναμάς</string>
-	<key>Paramaribo</key>
-	<string>Παραμαρίμπο</string>
-	<key>Paris</key>
-	<string>Παρίσι</string>
-	<key>Perth</key>
-	<string>Περθ</string>
-	<key>Philadelphia</key>
-	<string>Φιλαδέλφια</string>
-	<key>Phnom Penh</key>
-	<string>Πνομ Πενχ</string>
-	<key>Phoenix</key>
-	<string>Φοίνιξ</string>
-	<key>Ponta Delgada</key>
-	<string>Πόντα Ντελγάδα</string>
-	<key>Port Louis</key>
-	<string>Πορτ Λούις</string>
-	<key>Port-au-Prince</key>
-	<string>Πορτ Ο Πρινς</string>
-	<key>Portland</key>
-	<string>Πόρτλαντ</string>
-	<key>Prague</key>
-	<string>Πράγα</string>
-	<key>Pyongyang</key>
-	<string>Πιονγιάνγκ</string>
-	<key>Quito</key>
-	<string>Κίτο</string>
-	<key>Rabat</key>
-	<string>Ραμπάτ</string>
-	<key>Rangoon</key>
-	<string>Ρανγκούν</string>
-	<key>Recife</key>
-	<string>Ρεσίφε</string>
-	<key>Regina</key>
-	<string>Ρετζίνα</string>
-	<key>Reykjavik</key>
-	<string>Ρέικιαβικ</string>
-	<key>Rio de Janeiro</key>
-	<string>Ρίο ντε Τζανέιρο</string>
-	<key>Riyadh</key>
-	<string>Ριάντ</string>
-	<key>Rome</key>
-	<string>Ρώμη</string>
-	<key>Salt Lake City</key>
-	<string>Σολτ Λέικ Σιτι</string>
-	<key>San Diego</key>
-	<string>Σαν Ντιέγκο</string>
-	<key>San Francisco</key>
-	<string>Σαν Φρανσίσκο</string>
-	<key>San Jose</key>
-	<string>Σαν Χοσέ</string>
-	<key>San Juan</key>
-	<string>Σαν Χουάν</string>
-	<key>San Salvador</key>
-	<string>Σαν Σαλβαντόρ</string>
-	<key>Sanaa</key>
-	<string>Σαναά</string>
-	<key>Santiago</key>
-	<string>Σαντιάγο</string>
-	<key>Santo Domingo</key>
-	<string>Σάντο Ντομίνγκο</string>
-	<key>Sao Paulo</key>
-	<string>Σάο Πάολο</string>
-	<key>Seattle</key>
-	<string>Σηάτλ</string>
-	<key>Seoul</key>
-	<string>Σεούλ</string>
-	<key>Shanghai</key>
-	<string>Σαγκάη</string>
-	<key>Singapore</key>
-	<string>Σιγκαπούρη</string>
-	<key>Sofia</key>
-	<string>Σόφια</string>
-	<key>St. John's</key>
-	<string>Σεντ Τζονς</string>
-	<key>St. Louis</key>
-	<string>Σεντ Λούις</string>
-	<key>St. Petersburg</key>
-	<string>Αγία Πετρούπολη</string>
-	<key>Stockholm</key>
-	<string>Στοκχόλμη</string>
-	<key>Sydney</key>
-	<string>Σίδνεϊ</string>
-	<key>Taipei</key>
-	<string>Ταϊπέι</string>
-	<key>Tashkent</key>
-	<string>Τασκένδη</string>
-	<key>Tegucigalpa</key>
-	<string>Τεγκουσιγκάλπα</string>
-	<key>Tehran</key>
-	<string>Τεχεράνη</string>
-	<key>Thanh Pho Ho Chi Minh</key>
-	<string>Πόλη του Χο Τσι Μιν</string>
-	<key>Tientsin</key>
-	<string>Τιεντσίν</string>
-	<key>Tokyo</key>
-	<string>Τόκιο</string>
-	<key>Toronto</key>
-	<string>Τορόντο</string>
-	<key>Tripoli</key>
-	<string>Τρίπολη</string>
-	<key>Tunis</key>
-	<string>Τυνησία</string>
-	<key>UTC</key>
-	<string>UTC</string>
-	<key>Ulaanbaatar</key>
-	<string>Ουλάν Μπατόρ</string>
-	<key>Vancouver</key>
-	<string>Βανκούβερ</string>
-	<key>Victoria</key>
-	<string>Βικτώρια</string>
-	<key>Vienna</key>
-	<string>Βιέννη</string>
-	<key>Vladivostok</key>
-	<string>Βλαδιβοστόκ</string>
-	<key>Volgograd</key>
-	<string>Βόλγκογκραντ</string>
-	<key>Warsaw</key>
-	<string>Βαρσοβία</string>
-	<key>Washington, D.C.</key>
-	<string>Ουάσιγκτον, Περιφέρεια της Κολούμπια</string>
-	<key>Wellington</key>
-	<string>Ουέλινγκτον</string>
-	<key>Winnipeg</key>
-	<string>Γουίνιπεγκ</string>
-	<key>Yakutsk</key>
-	<string>Γιακούτσκ</string>
-	<key>Yekaterinburg</key>
-	<string>Αικατερινούπολη</string>
-	<key>Yerevan</key>
-	<string>Ερεβάν</string>
-	<key>Zagreb</key>
-	<string>Ζάγκρεμπ</string>
-	<key>Zurich</key>
-	<string>Ζυρίχη</string>
-</dict>
-</plist>
+"Abidjan" = "Αμπιτζάν";
+"Abu Dhabi" = "Άμπου Ντάμπι";
+"Accra" = "Άκρα";
+"Adak" = "Αδάκ";
+"Addis Ababa" = "Αντίς Αμπέμπα";
+"Adelaide" = "Αδελαΐδα";
+"Algiers" = "Αλγέρι";
+"Almaty" = "Αλμάτι";
+"Amman" = "Αμμάν";
+"Amsterdam" = "Άμστερνταμ";
+"Anadyr" = "Αναδύρ";
+"Anchorage" = "Άνκορατζ";
+"Andorra" = "Canillo";
+"Anguilla" = "Anguilla";
+"Ankara" = "Άγκυρα";
+"Antananarivo" = "Ανταναναρίβο";
+"Antigua" = "Antigua";
+"Apia" = "Απία";
+"Aqtobe" = "Ακτόμπε";
+"Araguaína" = "Araguaína";
+"Aruba" = "Santa Cruz";
+"Ashgabat" = "Ασγκαμπάτ";
+"Asmara" = "Ασμάρα";
+"Asmera" = "Ασμέρα";
+"Astrakhan" = "Άστραχαν";
+"Asuncion" = "Ασουνσιόν";
+"Athens" = "Αθήνα";
+"Atikokan" = "Atikokan";
+"Atlanta" = "Ατλάντα";
+"Atyrau" = "Atyrau";
+"Austin" = "Ώστιν";
+"Baghdad" = "Βαγδάτη";
+"Bahia" = "Salvador";
+"Bahía de Banderas" = "Bahía de Banderas";
+"Baku" = "Μπακού";
+"Bamako" = "Μπαμάκο";
+"Bangkok" = "Μπανγκόκ";
+"Bangui" = "Μπάνγκουϊ";
+"Banjul" = "Μπανζούλ";
+"Barnaul" = "Μπαρναούλ";
+"Beijing" = "Πεκίνο";
+"Beirut" = "Βηρυτός";
+"Belgrade" = "Βελιγράδι";
+"Belize" = "Belize";
+"Belém" = "Belém";
+"Berlin" = "Βερολίνο";
+"Bermuda" = "Bermuda";
+"Beulah" = "Beulah";
+"Bishkek" = "Μπισκέκ";
+"Bissau" = "Bissau";
+"Blacksburg" = "Μπλάκσμπουργκ";
+"Blanc-Sablon" = "Blanc-Sablon";
+"Blantyre" = "Blantyre";
+"Boa Vista" = "Boa Vista";
+"Bogota" = "Μπογκοτά";
+"Boise" = "Boise";
+"Boston" = "Βοστόνη";
+"Brasalia" = "Μπραζίλια";
+"Bratislava" = "Μπρατισλάβα";
+"Brazzaville" = "Brazzaville";
+"Bridgetown" = "Μπρίτζταουν";
+"Brisbane" = "Μπρίζμπεϊν";
+"Broken Hill" = "Μπρόουκεν Χιλ";
+"Brunei" = "Rambai";
+"Brussels" = "Βρυξέλλες";
+"Bucharest" = "Βουκουρέστι";
+"Budapest" = "Βουδαπέστη";
+"Buenos Aires" = "Buenos Aires";
+"Bujumbura" = "Bujumbura";
+"Büsingen am Hochrhein" = "Büsingen am Hochrhein";
+"Cairo" = "Κάιρο";
+"Calgary" = "Κάλγκαρι";
+"Campo Grande" = "Κάμπο Γκράντε";
+"Canberra" = "Καμπέρα";
+"Cancún" = "Κανκούν";
+"Canton" = "Καντόν";
+"Cape Town" = "Κέιπ Τάουν";
+"Caracas" = "Καράκας";
+"Cardiff" = "Κάρντιφ";
+"Catamarca" = "Belén";
+"Cayenne" = "Καγιέν";
+"Cayman Islands" = "Cayman Islands";
+"Center" = "Center";
+"Ceuta" = "Θεούτα";
+"Chennai" = "Τσενάι (Μαδράς)";
+"Chicago" = "Σικάγο";
+"Chihuahua" = "Chihuahua";
+"Chisinau" = "Chisinau";
+"Chita" = "Τσίτα";
+"Choibalsan" = "Τσόιμπαλσαν";
+"Chongqing" = "Τσονγκτσίνγκ";
+"Christmas Island" = "Christmas Island";
+"Colombo" = "Κολόμπο";
+"Columbus" = "Κολόμπους";
+"Comoros" = "Comoros";
+"Conakry" = "Κόνακρυ";
+"Copenhagen" = "Κοπεγχάγη";
+"Cork" = "Κορκ";
+"Cuiabá" = "Cuiabá";
+"Cupertino" = "Κουπερτίνο";
+"Curaçao" = "Βίλλεμσταντ";
+"Córdoba" = "Κόρδοβα";
+"Dakar" = "Ντακάρ";
+"Dallas" = "Ντάλας";
+"Damascus" = "Δαμασκός";
+"Danmarkshavn" = "Danmarkshavn";
+"Dar es Salaam" = "Νταρ Ες Σαλάμ";
+"Darwin" = "Ντάργουιν";
+"Dawson Creek" = "Dawson Creek";
+"Denver" = "Ντένβερ";
+"Detroit" = "Ντιτρόιτ";
+"Dhaka" = "Ντάκα";
+"Dili" = "Ντίλι";
+"Djibouti" = "Τζιμπουτί";
+"Doha" = "Ντόχα";
+"Dominica" = "Dominica";
+"Douala" = "Ντουάλα";
+"Dublin" = "Δουβλίνο";
+"Dushanbe" = "Ντουσαμπέ";
+"Edinburgh" = "Εδιμβούργο";
+"Edmonton" = "Έντμοντον";
+"Efate" = "Efate";
+"Eirunepé" = "Eirunepé";
+"Enderbury Island" = "Enderbury Island";
+"Eucla" = "Γιούκλα";
+"Famagusta" = "Αμμόχωστος";
+"Faroe Islands" = "Faroe Islands";
+"Fernando de Noronha" = "Fernando De Noronha";
+"Fiji" = "Fiji";
+"Fort Nelson" = "Fort Nelson";
+"Fortaleza" = "Φορταλέζα";
+"Freetown" = "Φρήταουν";
+"Funafuti" = "Funafuti";
+"Gaborone" = "Gaborone";
+"Galapagos Islands" = "Isabela";
+"Gaza" = "Gaza";
+"Geneva" = "Γενεύη";
+"Georgetown" = "Τζορτζτάουν";
+"Gibraltar" = "Γιβραλτάρ";
+"Grand Turk" = "Grand Turk";
+"Grenada" = "Grenada";
+"Grytviken" = "Γκρίτβικεν";
+"Guadalcanal Island" = "Guadalcanal Island";
+"Guadeloupe" = "Le Gosier";
+"Guam" = "Γκουάμ";
+"Guatemala" = "Γουατεμάλα";
+"Halifax" = "Χάλιφαξ";
+"Hamburg" = "Αμβούργο";
+"Hanoi" = "Ανόι";
+"Harare" = "Χαράρε";
+"Harbin" = "Χαρμπίν";
+"Havana" = "Αβάνα";
+"Helsinki" = "Ελσίνκι";
+"Hermosillo" = "Hermosillo";
+"Ho Chi Minh City" = "Χο Τσι Μινχ Σίτι";
+"Hobart" = "Χόμπαρτ";
+"Hong Kong" = "Χονγκ Κονγκ";
+"Honolulu" = "Χονολουλού";
+"Houston" = "Χιούστον";
+"Indianapolis" = "Ιντιανάπολις";
+"Inuvik" = "Inuvik";
+"Iqaluit" = "Iqaluit";
+"Irkutsk" = "Ιρκούτσκ";
+"Islamabad" = "Ισλαμαμπάντ";
+"Isle of Man" = "Kirk Michael";
+"Istanbul" = "Κωνσταντινούπολη";
+"Jakarta" = "Τζακάρτα";
+"Jamaica" = "Saint Catherine";
+"Jayapura" = "Jayapura";
+"Jerusalem" = "Ιερουσαλήμ";
+"Juba" = "Juba";
+"Jujuy" = "Casabindo";
+"Juneau" = "Juneau";
+"Kabul" = "Καμπούλ";
+"Kaliningrad" = "Καλίνιγκραντ";
+"Kampala" = "Καμπάλα";
+"Kashi" = "Kashgar";
+"Kathmandu" = "Κατμαντού";
+"Katmandu" = "Κατμαντού";
+"Khandyga" = "Χαντίγκα";
+"Khartoum" = "Χαρτούμ";
+"Khovd" = "Khovd";
+"Kiev" = "Κίεβο";
+"Kigali" = "Kigali";
+"Kinshasa" = "Κινσάσα";
+"Kirov" = "Κίροφ";
+"Knox" = "Knox";
+"Knoxville" = "Νόξβιλ";
+"Kolkata" = "Κολκάτα (Καλκούτα)";
+"Kosrae Island" = "Kosrae Island";
+"Kralendijk" = "Kralendijk";
+"Krasnoyarsk" = "Κρασνογιάρσκ";
+"Kuala Lumpur" = "Κουάλα Λουμπούρ";
+"Kuching" = "Kuching";
+"Kuwait" = "Κουβέιτ";
+"Kyiv" = "Κίεβο";
+"Kyzylorda" = "Kyzylorda";
+"La Paz" = "Λα Παζ";
+"La Rioja" = "La Rioja";
+"Laayoune" = "Ελ Αγιούν";
+"Lagos" = "Λάγκος";
+"Libreville" = "Libreville";
+"Lima" = "Λίμα";
+"Lisbon" = "Λισαβόνα";
+"Ljubljana" = "Λιουμπλιάνα";
+"Lome" = "Lome";
+"London" = "Λονδίνο";
+"Longyearbyen" = "Svalbard";
+"Los Angeles" = "Λος Άντζελες";
+"Louisville" = "Λούιβιλ";
+"Luanda" = "Λουάντα";
+"Lubumbashi" = "Lubumbashi";
+"Lusaka" = "Λουσάκα";
+"Luxembourg" = "Mersch";
+"Macao SAR, China" = "Μακάο";
+"Maceió" = "Maceió";
+"Madeira" = "Câmara De Lobos";
+"Madrid" = "Μαδρίτη";
+"Magadan" = "Μαγκαντάν";
+"Majuro" = "Majuro";
+"Makassar" = "Makassar";
+"Malabo" = "Μαλάμπο";
+"Male" = "Μάλε";
+"Malta" = "St. Paul's Bay";
+"Managua" = "Μανάγκουα";
+"Manama" = "Μανάμα";
+"Manaus" = "Manaus";
+"Manchester" = "Μάντσεστερ";
+"Mangystau" = "Mangystau";
+"Manila" = "Μανίλα";
+"Maputo" = "Μαπούτο";
+"Marengo" = "Marengo";
+"Mariehamn" = "Mariehamn";
+"Martinique" = "Saint-Joseph";
+"Maseru" = "Μασέρου";
+"Matamoros" = "Ματαμόρος";
+"Mayotte" = "Tsingoni";
+"Mazatlán" = "Mazatlán";
+"Mbabane" = "Mbabane";
+"Mecca" = "Μέκκα";
+"Melbourne" = "Μελβούρνη";
+"Memphis" = "Μέμφις";
+"Mendoza" = "Capital";
+"Menominee" = "Menominee";
+"Metlakatla" = "Metlakatla";
+"Mexico City" = "Μέξικο Σίτυ";
+"Miami" = "Μαϊάμι";
+"Minneapolis" = "Μινεάπολις";
+"Minsk" = "Minsk";
+"Miquelon" = "Miquelon-Langlade";
+"Mogadisho" = "Μογκαντίσο";
+"Monaco" = "Μονακό";
+"Moncton" = "Moncton";
+"Monrovia" = "Μονροβία";
+"Monterrey" = "Monterrey";
+"Montevideo" = "Μοντεβιδέο";
+"Monticello" = "Monticello";
+"Montreal" = "Μόντρεαλ";
+"Montserrat" = "Montserrat";
+"Moscow" = "Μόσχα";
+"Mumbai" = "Μουμπάι (Βομβάη)";
+"Munich" = "Μόναχο";
+"Muscat" = "Μουσκάτ";
+"Mérida" = "Mérida";
+"Nairobi" = "Ναϊρόμπι";
+"Nassau" = "Νασάου";
+"Nauru" = "Nauru";
+"Ndjamena" = "Ντζαμένα";
+"New Delhi" = "Νέο Δελχί";
+"New Salem" = "New Salem";
+"New York" = "Νέα Υόρκη";
+"Niamey" = "Niamey";
+"Nicosia" = "Λευκωσία";
+"Niue" = "Niue";
+"Nome" = "Nome";
+"Nouakchott" = "Νουακτσότ";
+"Noumea" = "Νουμέα";
+"Novokuznetsk" = "Νοβοκουζνέτσκ";
+"Novosibirsk" = "Νοβοσιμπίρσκ";
+"Nuuk" = "Νουούκ";
+"Ojinaga" = "Ojinaga";
+"Omsk" = "Ομσκ";
+"Osaka" = "Οσάκα";
+"Oslo" = "Όσλο";
+"Ottawa" = "Οτάβα";
+"Ougadougou" = "Ουγκαντούγκου";
+"Pago Pago" = "Πάγκο Πάγκο";
+"Palau" = "Palau";
+"Panama" = "Παναμάς";
+"Pangnirtung" = "Pangnirtung";
+"Paramaribo" = "Παραμαρίμπο";
+"Paris" = "Παρίσι";
+"Perth" = "Περθ";
+"Petersburg" = "Petersburg";
+"Philadelphia" = "Φιλαδέλφια";
+"Phnom Penh" = "Πνομ Πενχ";
+"Phoenix" = "Φοίνιξ";
+"Pitcairn Islands" = "Pitcairn Islands";
+"Podgorica" = "Podgorica";
+"Pohnpei International Airport" = "Pohnpei International Airport";
+"Ponta Delgada" = "Πόντα Ντελγάδα";
+"Pontianak" = "Pontianak";
+"Port Louis" = "Πορτ Λούις";
+"Port Moresby" = "Πορτ Μόρεσμπι";
+"Port of Spain" = "Πoρτ οφ Σπέιν";
+"Port-au-Prince" = "Πορτ Ο Πρινς";
+"Portland" = "Πόρτλαντ";
+"Porto Velho" = "Porto Velho";
+"Porto-Novo" = "Porto-Novo";
+"Prague" = "Πράγα";
+"Punta Arenas" = "Πούντα Αρένας";
+"Punta Gorda" = "Punta Gorda";
+"Pyongyang" = "Πιονγιάνγκ";
+"Quito" = "Κίτο";
+"Rabat" = "Ραμπάτ";
+"Rainy River" = "Rainy River";
+"Rangoon" = "Ρανγκούν";
+"Rankin Inlet" = "Rankin Inlet";
+"Rarotonga International Airport" = "Rarotonga International Airport";
+"Recife" = "Ρεσίφε";
+"Regina" = "Ρεγγίνα";
+"Reykjavik" = "Ρέικιαβικ";
+"Riga" = "Ρίγα";
+"Rio Branco" = "Rio Branco";
+"Rio de Janeiro" = "Ρίο ντε Τζανέιρο";
+"Riyadh" = "Ριάντ";
+"Rome" = "Ρώμη";
+"Réunion" = "Saint-Benoît";
+"Río Gallegos" = "Río Gallegos";
+"Saint Barthélemy" = "Άγιος Βαρθολομαίος";
+"Saint Helena, Ascension and Tristan da Cunha " = "Saint Helena, Ascension and Tristan da Cunha ";
+"Saint Lucia" = "Saint Lucia";
+"Saipan" = "Saipan";
+"Sakhalin" = "Smirnykhovsky Urban Okrug";
+"Salt Lake City" = "Σολτ Λέικ Σιτι";
+"Salta" = "Salta";
+"Samara" = "Σαμάρα";
+"Samarqand" = "Samarqand";
+"San Diego" = "Σαν Ντιέγκο";
+"San Francisco" = "Σαν Φρανσίσκο";
+"San Jose" = "Σαν Χοσέ";
+"San Juan" = "Departamento Capital";
+"San Luis" = "Villa Mercedes";
+"San Marino" = "San Marino";
+"San Salvador" = "Σαν Σαλβαντόρ";
+"Sanaa" = "Σαναά";
+"Santarém" = "Santarém";
+"Santiago" = "Σαντιάγο";
+"Santo Domingo" = "Σάντο Ντομίνγκο";
+"Sao Paulo" = "Σάο Πάολο";
+"Sarajevo" = "Σαράγεβο";
+"Saratov" = "Σαράτοφ";
+"Scoresbysund" = "Scoresbysund";
+"Seattle" = "Σηάτλ";
+"Seoul" = "Σεούλ";
+"Shanghai" = "Σαγκάη";
+"Shiprock" = "Shiprock";
+"Simferopol" = "Simferopol";
+"Singapore" = "Σιγκαπούρη";
+"Sitka" = "Sitka";
+"Skopje" = "Σκόπια";
+"Sofia" = "Σόφια";
+"Srednekolymsk" = "Σρεντνεκολίμσκ";
+"St. John's" = "St. John's";
+"St. Kitts Marriott Resort & The Royal Beach Casino" = "St. Kitts Marriott Resort & The Royal Beach Casino";
+"St. Louis" = "Σεντ Λούις";
+"St. Petersburg" = "Αγία Πετρούπολη";
+"Stanley" = "Stanley";
+"Stockholm" = "Στοκχόλμη";
+"Swift Current" = "Swift Current";
+"Sydney" = "Σίδνεϊ";
+"Syria" = "Aleppo";
+"São Tomé" = "São Tomé";
+"Tahiti" = "Tahiti";
+"Taipei" = "Ταϊπέι";
+"Tallinn" = "Ταλίν";
+"Tashkent" = "Τασκένδη";
+"Tbilisi" = "Τιφλίδα";
+"Tegucigalpa" = "Τεγκουσιγκάλπα";
+"Tehran" = "Τεχεράνη";
+"Tell City" = "Tell City";
+"Thanh Pho Ho Chi Minh" = "Πόλη του Χο Τσι Μιν";
+"Thimphu" = "Τσιμπού";
+"Thunder Bay" = "Thunder Bay";
+"Tientsin" = "Τιεντσίν";
+"Tijuana" = "Tijuana";
+"Tirana" = "Tirana";
+"Tokyo" = "Τόκιο";
+"Tomsk" = "Τομσκ";
+"Toronto" = "Τορόντο";
+"Tortola" = "Tortola";
+"Tripoli" = "Τρίπολη";
+"Tucumán" = "La Reduccion";
+"Tunis" = "Τυνησία";
+"UTC" = "UTC";
+"Ulaanbaatar" = "Ουλάν Μπατόρ";
+"Ulyanovsk" = "Ουλιάνοφσκ";
+"Uralsk" = "Uralsk";
+"Ushuaia" = "Ushuaia";
+"Ust-Nera" = "Oymyakonsky District";
+"Uzhhorod" = "Uzhhorod";
+"Vaduz" = "Βαντούζ";
+"Vancouver" = "Βανκούβερ";
+"Vatican City" = "Vatican City";
+"Vevay" = "Vevay";
+"Victoria" = "Βικτώρια";
+"Vienna" = "Βιέννη";
+"Vientiane" = "Vientiane";
+"Vilnius" = "Vilnius";
+"Vincennes" = "Vincennes";
+"Vladivostok" = "Βλαδιβοστόκ";
+"Volgograd" = "Βόλγκογκραντ";
+"Warsaw" = "Βαρσοβία";
+"Washington, D.C." = "Ουάσιγκτον, Περιφέρεια της Κολούμπια";
+"Wellington" = "Ουέλινγκτον";
+"Weno" = "Weno";
+"Winamac" = "Winamac";
+"Windhoek" = "Windhoek";
+"Winnipeg" = "Γουίνιπεγκ";
+"Yakutat" = "Yakutat";
+"Yakutsk" = "Γιακούτσκ";
+"Yangon" = "Γιανγκόν";
+"Yekaterinburg" = "Αικατερινούπολη";
+"Yellowknife" = "Yellowknife";
+"Yerevan" = "Ερεβάν";
+"Zagreb" = "Ζάγκρεμπ";
+"Zaporizhzhia" = "Ζαπορίζια";
+"Zurich" = "Ζυρίχη";

@@ -1,284 +1,235 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>Afghanistan</key>
-	<string>אפגניסטן</string>
-	<key>Algeria</key>
-	<string>אלג׳יריה</string>
-	<key>Angola</key>
-	<string>אנגולה</string>
-	<key>Argentina</key>
-	<string>ארגנטינה</string>
-	<key>Armenia</key>
-	<string>ארמניה</string>
-	<key>Australia</key>
-	<string>אוסטרליה</string>
-	<key>Austria</key>
-	<string>אוסטריה</string>
-	<key>Azerbaijan</key>
-	<string>אזרבייג׳ן</string>
-	<key>Bahrain</key>
-	<string>בחריין</string>
-	<key>Bangladesh</key>
-	<string>בנגלדש</string>
-	<key>Barbados</key>
-	<string>ברבדוס</string>
-	<key>Belgium</key>
-	<string>בלגיה</string>
-	<key>Bolivia</key>
-	<string>בוליביה</string>
-	<key>Brazil</key>
-	<string>ברזיל</string>
-	<key>Bulgaria</key>
-	<string>בולגריה</string>
-	<key>Burkina Faso</key>
-	<string>בורקינה פאסו</string>
-	<key>Burma</key>
-	<string>מיאנמר</string>
-	<key>Cambodia</key>
-	<string>קמבודיה</string>
-	<key>Cameroon</key>
-	<string>קמרון</string>
-	<key>Canada</key>
-	<string>קנדה</string>
-	<key>Central African Republic</key>
-	<string>הרפובליקה המרכז-אפריקאית</string>
-	<key>Chad</key>
-	<string>צ׳אד</string>
-	<key>Chile</key>
-	<string>צ׳ילה</string>
-	<key>China</key>
-	<string>סין</string>
-	<key>Colombia</key>
-	<string>קולומביה</string>
-	<key>Costa Rica</key>
-	<string>קוסטה ריקה</string>
-	<key>Croatia</key>
-	<string>קרואטיה</string>
-	<key>Cuba</key>
-	<string>קובה</string>
-	<key>Czech Republic</key>
-	<string>צ׳כיה</string>
-	<key>Denmark</key>
-	<string>דנמרק</string>
-	<key>Djibouti</key>
-	<string>ג׳יבוטי</string>
-	<key>Dominican Republic</key>
-	<string>הרפובליקה הדומיניקנית</string>
-	<key>Ecuador</key>
-	<string>אקוודור</string>
-	<key>Egypt</key>
-	<string>מצרים</string>
-	<key>El Salvador</key>
-	<string>אל סלבדור</string>
-	<key>England</key>
-	<string>אנגליה</string>
-	<key>Eritrea</key>
-	<string>אריתריאה</string>
-	<key>Ethiopia</key>
-	<string>אתיופיה</string>
-	<key>Finland</key>
-	<string>פינלנד</string>
-	<key>France</key>
-	<string>צרפת</string>
-	<key>French Guiana</key>
-	<string>גויאנה הצרפתית</string>
-	<key>Germany</key>
-	<string>גרמניה</string>
-	<key>Ghana</key>
-	<string>גאנה</string>
-	<key>Greece</key>
-	<string>יוון</string>
-	<key>Greenland</key>
-	<string>גרינלנד</string>
-	<key>Guatemala</key>
-	<string>גואטמלה</string>
-	<key>Guinea</key>
-	<string>גינאה</string>
-	<key>Guyana</key>
-	<string>גיאנה</string>
-	<key>Haiti</key>
-	<string>האיטי</string>
-	<key>Honduras</key>
-	<string>הונדורס</string>
-	<key>Hong Kong</key>
-	<string>הונג קונג</string>
-	<key>Hungary</key>
-	<string>הונגריה</string>
-	<key>Iceland</key>
-	<string>איסלנד</string>
-	<key>India</key>
-	<string>הודו</string>
-	<key>Indonesia</key>
-	<string>אינדונזיה</string>
-	<key>Iran</key>
-	<string>איראן</string>
-	<key>Iraq</key>
-	<string>עיראק</string>
-	<key>Ireland</key>
-	<string>אירלנד</string>
-	<key>Israel</key>
-	<string>ישראל</string>
-	<key>Italy</key>
-	<string>איטליה</string>
-	<key>Japan</key>
-	<string>יפן</string>
-	<key>Jordan</key>
-	<string>ירדן</string>
-	<key>Kenya</key>
-	<string>קניה</string>
-	<key>Korea</key>
-	<string>קוריאה</string>
-	<key>Kuwait</key>
-	<string>כוויית</string>
-	<key>Lebanon</key>
-	<string>לבנון</string>
-	<key>Liberia</key>
-	<string>ליבריה</string>
-	<key>Libya</key>
-	<string>לוב</string>
-	<key>Madagascar</key>
-	<string>מדגסקר</string>
-	<key>Malaysia</key>
-	<string>מלזיה</string>
-	<key>Maldives</key>
-	<string>האיים המלדיביים</string>
-	<key>Mali</key>
-	<string>מאלי</string>
-	<key>Mauritania</key>
-	<string>מאוריטניה</string>
-	<key>Mauritius</key>
-	<string>מאוריציוס</string>
-	<key>Mexico</key>
-	<string>מקסיקו</string>
-	<key>Mongolia</key>
-	<string>מונגוליה</string>
-	<key>Morocco</key>
-	<string>מרוקו</string>
-	<key>Mozambique</key>
-	<string>מוזמביק</string>
-	<key>Nepal</key>
-	<string>נפאל</string>
-	<key>Netherlands</key>
-	<string>הולנד</string>
-	<key>New Caledonia</key>
-	<string>קלדוניה החדשה</string>
-	<key>New Zealand</key>
-	<string>ניו זילנד</string>
-	<key>Nicaragua</key>
-	<string>ניקרגואה</string>
-	<key>Nigeria</key>
-	<string>ניגריה</string>
-	<key>North Korea</key>
-	<string>צפון קוריאה</string>
-	<key>Norway</key>
-	<string>נורווגיה</string>
-	<key>Oman</key>
-	<string>עומאן</string>
-	<key>Pakistan</key>
-	<string>פקיסטן</string>
-	<key>Panama</key>
-	<string>פנמה</string>
-	<key>Paraguay</key>
-	<string>פרגוואי</string>
-	<key>Peru</key>
-	<string>פרו</string>
-	<key>Philippines</key>
-	<string>הפיליפינים</string>
-	<key>Poland</key>
-	<string>פולין</string>
-	<key>Portugal</key>
-	<string>פורטוגל</string>
-	<key>Puerto Rico</key>
-	<string>פוארטו ריקו</string>
-	<key>Qatar</key>
-	<string>קטאר</string>
-	<key>Romania</key>
-	<string>רומניה</string>
-	<key>Russia</key>
-	<string>רוסיה</string>
-	<key>Samoa</key>
-	<string>סמואה</string>
-	<key>Saudi Arabia</key>
-	<string>ערב הסעודית</string>
-	<key>Scotland</key>
-	<string>סקוטלנד</string>
-	<key>Senegal</key>
-	<string>סנגל</string>
-	<key>Serbia and Montenegro</key>
-	<string>סרביה ומונטנגרו</string>
-	<key>Seychelles</key>
-	<string>סיישל</string>
-	<key>Sierra Leone</key>
-	<string>סיירה לאונה</string>
-	<key>Singapore</key>
-	<string>סינגפור</string>
-	<key>Slovakia</key>
-	<string>סלובקיה</string>
-	<key>Slovenia</key>
-	<string>סלובניה</string>
-	<key>Somalia</key>
-	<string>סומליה</string>
-	<key>South Africa</key>
-	<string>דרום-אפריקה</string>
-	<key>South Georgia</key>
-	<string>דרום ג׳ורג׳יה</string>
-	<key>Spain</key>
-	<string>ספרד</string>
-	<key>Sri Lanka</key>
-	<string>סרי לנקה</string>
-	<key>Sudan</key>
-	<string>סודאן</string>
-	<key>Surinam</key>
-	<string>סורינאם</string>
-	<key>Sweden</key>
-	<string>שבדיה</string>
-	<key>Switzerland</key>
-	<string>שווייץ</string>
-	<key>Syria</key>
-	<string>סוריה</string>
-	<key>Taiwan</key>
-	<string>טאיוואן</string>
-	<key>Tanzania</key>
-	<string>טנזניה</string>
-	<key>Thailand</key>
-	<string>תאילנד</string>
-	<key>Tunisia</key>
-	<string>תוניסיה</string>
-	<key>Turkey</key>
-	<string>טורקיה</string>
-	<key>Turkmenistan</key>
-	<string>טורקמניסטן</string>
-	<key>U.A.E.</key>
-	<string>איחוד האמירויות</string>
-	<key>U.S.A.</key>
-	<string>ארה״ב</string>
-	<key>UTC</key>
-	<string>שעון גריניץ׳</string>
-	<key>Uganda</key>
-	<string>אוגנדה</string>
-	<key>Ukraine</key>
-	<string>אוקראינה</string>
-	<key>Unknown</key>
-	<string>לא ידוע</string>
-	<key>Uruguay</key>
-	<string>אורוגוואי</string>
-	<key>Uzbekistan</key>
-	<string>אוזבקיסטן</string>
-	<key>Venezuela</key>
-	<string>ונצואלה</string>
-	<key>Vietnam</key>
-	<string>וייטנאם</string>
-	<key>Wales</key>
-	<string>ויילס</string>
-	<key>Yemen</key>
-	<string>תימן</string>
-	<key>Zaire</key>
-	<string>הרפ. הדמ. של קונגו</string>
-	<key>Zambia</key>
-	<string>זמביה</string>
-	<key>Zimbabwe</key>
-	<string>זימבבואה</string>
-</dict>
-</plist>
+"" = "";
+"Afghanistan" = "אפגניסטן";
+"Albania" = "אלבניה";
+"Algeria" = "אלג׳יריה";
+"Andorra" = "אנדורה";
+"Angola" = "אנגולה";
+"Anguilla" = "אנגווילה";
+"Antigua and Barbuda" = "אנטיגואה וברבודה";
+"Argentina" = "ארגנטינה";
+"Armenia" = "ארמניה";
+"Aruba" = "ארובה";
+"Australia" = "אוסטרליה";
+"Austria" = "אוסטריה";
+"Azerbaijan" = "אזרבייג׳ן";
+"Bahamas" = "איי בהאמה";
+"Bahrain" = "בחריין";
+"Bangladesh" = "בנגלדש";
+"Barbados" = "ברבדוס";
+"Belarus" = "בלארוס";
+"Belgium" = "בלגיה";
+"Belize" = "בליז";
+"Benin" = "בנין";
+"Bermuda" = "ברמודה";
+"Bhutan" = "בהוטן";
+"Bolivia" = "בוליביה";
+"Bosnia and Herzegovina" = "בוסניה והרצגובינה";
+"Botswana" = "בוטסואנה";
+"Brazil" = "ברזיל";
+"British Virgin Islands" = "איי הבתולה הבריטיים";
+"Brunei" = "ברוניי";
+"Bulgaria" = "בולגריה";
+"Burkina Faso" = "בורקינה פאסו";
+"Burma" = "מיאנמר";
+"Burundi" = "בורונדי";
+"Cambodia" = "קמבודיה";
+"Cameroon" = "קמרון";
+"Canada" = "קנדה";
+"Cape Verde" = "כף ורדה";
+"Caribbean Netherlands" = "האיים הקריביים ההולנדיים";
+"Cayman Islands" = "איי קיימן";
+"Central African Republic" = "הרפובליקה המרכז-אפריקאית";
+"Chad" = "צ׳אד";
+"Chile" = "צ'ילה";
+"China" = "סין";
+"Colombia" = "קולומביה";
+"Comoros" = "קומורו";
+"Congo" = "קונגו";
+"Cook Islands" = "איי קוק";
+"Costa Rica" = "קוסטה ריקה";
+"Croatia" = "קרואטיה";
+"Cuba" = "קובה";
+"Curaçao" = "קוראסאו";
+"Cyprus" = "קפריסין";
+"Czech Republic" = "צ׳כיה";
+"Côte d’Ivoire" = "חוף השנהב";
+"Democratic Republic of the Congo" = "הרפובליקה הדמוקרטית של קונגו";
+"Denmark" = "דנמרק";
+"Djibouti" = "ג׳יבוטי";
+"Dominica" = "דומיניקה";
+"Dominican Republic" = "הרפובליקה הדומיניקנית";
+"Ecuador" = "אקוודור";
+"Egypt" = "מצרים";
+"El Salvador" = "אל סלבדור";
+"England" = "אנגליה";
+"Equatorial Guinea" = "גינאה המשוונית";
+"Eritrea" = "אריתריאה";
+"Estonia" = "אסטוניה";
+"Eswatini" = "סווזילנד";
+"Ethiopia" = "אתיופיה";
+"Falkland Islands" = "איי פוקלנד";
+"Famagusta" = "Famagusta";
+"Faroe Islands" = "איי פארו";
+"Fiji" = "פיג'י";
+"Finland" = "פינלנד";
+"France" = "צרפת";
+"French Guiana" = "גויאנה הצרפתית";
+"French Polynesia" = "פולינזיה הצרפתית";
+"Gabon" = "גאבון";
+"Gambia" = "גמביה";
+"Gaza" = "Gaza";
+"Georgia" = "גאורגיה";
+"Germany" = "גרמניה";
+"Ghana" = "גאנה";
+"Gibraltar" = "Gibraltar";
+"Greece" = "יוון";
+"Greenland" = "גרינלנד";
+"Grenada" = "גרנדה";
+"Guadeloupe" = "גואדלופ";
+"Guatemala" = "גואטמלה";
+"Guinea" = "גינאה";
+"Guinea-Bissau" = "גינאה ביסאו";
+"Guyana" = "גיאנה";
+"Haiti" = "האיטי";
+"Honduras" = "הונדורס";
+"Hungary" = "הונגריה";
+"Iceland" = "איסלנד";
+"India" = "הודו";
+"Indonesia" = "אינדונזיה";
+"Iran" = "איראן";
+"Iraq" = "עיראק";
+"Ireland" = "אירלנד";
+"Israel" = "ישראל";
+"Italy" = "איטליה";
+"Jamaica" = "ג'מייקה";
+"Japan" = "יפן";
+"Jordan" = "ירדן";
+"Kazakhstan" = "קזחסטן";
+"Kenya" = "קניה";
+"Kiribati" = "קיריבאטי";
+"Korea" = "קוריאה";
+"Kuwait" = "כוויית";
+"Kyrgyzstan" = "קירגיזסטן";
+"Laayoune" = "Laayoune";
+"Laos" = "לאוס";
+"Latvia" = "לטביה";
+"Lebanon" = "לבנון";
+"Lesotho" = "לסוטו";
+"Liberia" = "ליבריה";
+"Libya" = "לוב";
+"Liechtenstein" = "ליכטנשטיין";
+"Lithuania" = "ליטא";
+"Luxembourg" = "לוקסמבורג";
+"Macao SAR, China" = "מקאו מחוז מיוחד, סין";
+"Madagascar" = "מדגסקר";
+"Malawi" = "מלאווי";
+"Malaysia" = "מלזיה";
+"Maldives" = "האיים המלדיביים";
+"Mali" = "מאלי";
+"Malta" = "מלטה";
+"Marshall Islands" = "איי מרשל";
+"Martinique" = "מרטיניק";
+"Mauritania" = "מאוריטניה";
+"Mauritius" = "מאוריציוס";
+"Mayotte" = "מאיוט";
+"Mexico" = "מקסיקו";
+"Micronesia" = "מיקרונזיה";
+"Moldova" = "מולדובה";
+"Monaco" = "מונקו";
+"Mongolia" = "מונגוליה";
+"Montenegro" = "מונטנגרו";
+"Montserrat" = "מונסראט";
+"Morocco" = "מרוקו";
+"Mozambique" = "מוזמביק";
+"Myanmar (Burma)" = "מיאנמר";
+"Namibia" = "נמיביה";
+"Nauru" = "נאורו";
+"Nepal" = "נפאל";
+"Netherlands" = "הולנד";
+"New Caledonia" = "קלדוניה החדשה";
+"New Zealand" = "ניו זילנד";
+"Nicaragua" = "ניקרגואה";
+"Niger" = "ניז'ר";
+"Nigeria" = "ניגריה";
+"Niue" = "ניואה";
+"North Korea" = "צפון קוריאה";
+"North Macedonia" = "מקדוניה הצפונית";
+"Northern Mariana Islands" = "איי מריאנה הצפוניים";
+"Norway" = "נורווגיה";
+"Oman" = "עומאן";
+"Pakistan" = "פקיסטן";
+"Palau" = "פאלאו";
+"Panama" = "פנמה";
+"Papua New Guinea" = "פפואה גינאה החדשה";
+"Paraguay" = "פרגוואי";
+"Peru" = "פרו";
+"Philippines" = "הפיליפינים";
+"Pitcairn Islands" = "איי פיטקרן";
+"Poland" = "פולין";
+"Portugal" = "פורטוגל";
+"Puerto Rico" = "פוארטו ריקו";
+"Qatar" = "קטאר";
+"Romania" = "רומניה";
+"Russia" = "רוסיה";
+"Rwanda" = "רואנדה";
+"Réunion" = "ראוניון";
+"Saint Barthélemy" = "סנט ברתולומיאו";
+"Saint Helena, Ascension and Tristan da Cunha " = "סנט הלנה";
+"Saint Kitts and Nevis" = "סנט קיטס ונוויס";
+"Saint Lucia" = "סנט לוסיה";
+"Saint Pierre and Miquelon" = "סנט פייר ומיקלון";
+"Samoa" = "סמואה";
+"San Marino" = "סן מרינו";
+"Sao Tome and Principe" = "סאו טומה ופרינסיפה";
+"Saudi Arabia" = "ערב הסעודית";
+"Scotland" = "סקוטלנד";
+"Senegal" = "סנגל";
+"Serbia and Montenegro" = "סרביה ומונטנגרו";
+"Seychelles" = "סיישל";
+"Sierra Leone" = "סיירה לאונה";
+"Singapore" = "סינגפור";
+"Slovakia" = "סלובקיה";
+"Slovenia" = "סלובניה";
+"Solomon Islands" = "איי שלמה";
+"Somalia" = "סומליה";
+"South Africa" = "דרום-אפריקה";
+"South Georgia" = "דרום ג׳ורג׳יה";
+"South Sudan" = "דרום סודן";
+"Spain" = "ספרד";
+"Sri Lanka" = "סרי לנקה";
+"Sudan" = "סודאן";
+"Surinam" = "סורינאם";
+"Svalbard and Jan Mayen" = "סוואלברד ויאן מאיין";
+"Sweden" = "שבדיה";
+"Switzerland" = "שווייץ";
+"Syria" = "סוריה";
+"Tajikistan" = "טג'יקיסטן";
+"Tanzania" = "טנזניה";
+"Thailand" = "תאילנד";
+"Timor-Leste" = "מזרח טימור";
+"Togo" = "טוגו";
+"Trinidad and Tobago" = "טרינידד וטובגו";
+"Tunisia" = "תוניסיה";
+"Turkey" = "טורקיה";
+"Turkmenistan" = "טורקמניסטן";
+"Turks and Caicos Islands" = "איי טורקס וקאיקוס";
+"Tuvalu" = "טובלו";
+"U.A.E." = "איחוד האמירויות";
+"U.S.A." = "ארה״ב";
+"UTC" = "שעון גריניץ׳";
+"Uganda" = "אוגנדה";
+"Ukraine" = "אוקראינה";
+"United Kingdom" = "בריטניה";
+"United States" = "ארצות הברית";
+"Uruguay" = "אורוגוואי";
+"Uzbekistan" = "אוזבקיסטן";
+"Vanuatu" = "ונואטו";
+"Vatican City" = "ותיקן";
+"Venezuela" = "ונצואלה";
+"Vietnam" = "וייטנאם";
+"Wales" = "ויילס";
+"Yemen" = "תימן";
+"Zaire" = "הרפ. הדמ. של קונגו";
+"Zambia" = "זמביה";
+"Zimbabwe" = "זימבבואה";
+"Åland Islands" = "איי אלנד";

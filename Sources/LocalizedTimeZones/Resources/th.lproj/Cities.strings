@@ -1,430 +1,428 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>Abu Dhabi</key>
-	<string>อาบูดาบี</string>
-	<key>Accra</key>
-	<string>อักกรา</string>
-	<key>Adak</key>
-	<string>อะแด็ค</string>
-	<key>Addis Ababa</key>
-	<string>แอดดิสอาบาบา</string>
-	<key>Adelaide</key>
-	<string>แอดิเลด</string>
-	<key>Algiers</key>
-	<string>แอลเจียร์</string>
-	<key>Amman</key>
-	<string>อัมมาน</string>
-	<key>Amsterdam</key>
-	<string>อัมสเตอร์ดัม</string>
-	<key>Anadyr</key>
-	<string>อนาไดร์</string>
-	<key>Anchorage</key>
-	<string>แองเคอเรจ</string>
-	<key>Ankara</key>
-	<string>แองการ่า</string>
-	<key>Antananarivo</key>
-	<string>อันตานานาริโว</string>
-	<key>Ashgabat</key>
-	<string>อาชกาบัต</string>
-	<key>Asmera</key>
-	<string>อาสเมรา</string>
-	<key>Asuncion</key>
-	<string>อะซุนซิออง</string>
-	<key>Athens</key>
-	<string>เอเธนส์</string>
-	<key>Atlanta</key>
-	<string>แอตแลนต้า</string>
-	<key>Austin</key>
-	<string>ออสติน</string>
-	<key>Baghdad</key>
-	<string>แบกแดด</string>
-	<key>Baku</key>
-	<string>บากู</string>
-	<key>Bamako</key>
-	<string>บามาโก</string>
-	<key>Bangkok</key>
-	<string>กรุงเทพฯ</string>
-	<key>Bangui</key>
-	<string>บังกี</string>
-	<key>Beijing</key>
-	<string>ปักกิ่ง</string>
-	<key>Beirut</key>
-	<string>เบรุต</string>
-	<key>Belgrade</key>
-	<string>เบลเกรด</string>
-	<key>Berlin</key>
-	<string>เบอร์ลิน</string>
-	<key>Blacksburg</key>
-	<string>แบล็กส์เบิร์ก</string>
-	<key>Bogota</key>
-	<string>โบโกตา</string>
-	<key>Boston</key>
-	<string>บอสตัน</string>
-	<key>Brasalia</key>
-	<string>บราซิเลีย</string>
-	<key>Bratislava</key>
-	<string>บราติสลาวา</string>
-	<key>Bridgetown</key>
-	<string>บริดจ์ทาวน์</string>
-	<key>Brisbane</key>
-	<string>บริสเบน</string>
-	<key>Brussels</key>
-	<string>บรัสเซลส์</string>
-	<key>Bucharest</key>
-	<string>บูคาเรสต์</string>
-	<key>Budapest</key>
-	<string>บูดาเปสต์</string>
-	<key>Buenos Aires</key>
-	<string>บัวโนสไอเรส</string>
-	<key>Cairo</key>
-	<string>ไคโร</string>
-	<key>Calgary</key>
-	<string>คัลการี</string>
-	<key>Canberra</key>
-	<string>แคนเบอร์รา</string>
-	<key>Canton</key>
-	<string>กวางตุ้ง</string>
-	<key>Cape Town</key>
-	<string>เคปทาวน์</string>
-	<key>Caracas</key>
-	<string>การากัส</string>
-	<key>Cardiff</key>
-	<string>คาร์ดิฟฟ์</string>
-	<key>Cayenne</key>
-	<string>กาแยน</string>
-	<key>Chennai</key>
-	<string>เจนไน (มาดราส)</string>
-	<key>Chicago</key>
-	<string>ชิคาโก้</string>
-	<key>Colombo</key>
-	<string>โคลอมโบ</string>
-	<key>Columbus</key>
-	<string>โคลัมบัส</string>
-	<key>Conakry</key>
-	<string>โกนากรี</string>
-	<key>Copenhagen</key>
-	<string>โคเปนเฮเกน</string>
-	<key>Cork</key>
-	<string>คอร์ก</string>
-	<key>Cupertino</key>
-	<string>คูเปอร์ติโน</string>
-	<key>Dakar</key>
-	<string>ดาการ์</string>
-	<key>Dallas</key>
-	<string>ดัลลัส</string>
-	<key>Damascus</key>
-	<string>ดามัสกัส</string>
-	<key>Dar es Salaam</key>
-	<string>ดาร์ เอส ซาลาม</string>
-	<key>Darwin</key>
-	<string>ดาร์วิน</string>
-	<key>Denver</key>
-	<string>เดนเวอร์</string>
-	<key>Detroit</key>
-	<string>ดีทรอยต์</string>
-	<key>Dhaka</key>
-	<string>ธากา</string>
-	<key>Djibouti</key>
-	<string>จิบูติ</string>
-	<key>Doha</key>
-	<string>โดฮา</string>
-	<key>Douala</key>
-	<string>ดูอาลา</string>
-	<key>Dublin</key>
-	<string>ดับลิน</string>
-	<key>Edinburgh</key>
-	<string>เอดินบะระ</string>
-	<key>Freetown</key>
-	<string>ฟรีทาวน์</string>
-	<key>Geneva</key>
-	<string>เจนีวา</string>
-	<key>Georgetown</key>
-	<string>จอร์จทาวน์</string>
-	<key>Grytviken</key>
-	<string>กริตวิเคน</string>
-	<key>Guam</key>
-	<string>กวม</string>
-	<key>Guatemala</key>
-	<string>กัวเตมาลา</string>
-	<key>Halifax</key>
-	<string>แฮลิแฟกซ์</string>
-	<key>Hamburg</key>
-	<string>ฮัมบูร์ก</string>
-	<key>Hanoi</key>
-	<string>ฮานอย</string>
-	<key>Harare</key>
-	<string>ฮาแรร์</string>
-	<key>Havana</key>
-	<string>ฮาวานา</string>
-	<key>Helsinki</key>
-	<string>เฮลซิงกิ</string>
-	<key>Hobart</key>
-	<string>โฮบาร์ต</string>
-	<key>Hong Kong</key>
-	<string>ฮ่องกง</string>
-	<key>Honolulu</key>
-	<string>โฮโนลูลู</string>
-	<key>Houston</key>
-	<string>ฮูสตัน</string>
-	<key>Indianapolis</key>
-	<string>อินเดียนาโพลิส</string>
-	<key>Islamabad</key>
-	<string>อิสลามาบัด</string>
-	<key>Istanbul</key>
-	<string>อิสตันบูล</string>
-	<key>Jakarta</key>
-	<string>จาการ์ตา</string>
-	<key>Jerusalem</key>
-	<string>เยรูซาเล็ม</string>
-	<key>Kabul</key>
-	<string>คาบูล</string>
-	<key>Kampala</key>
-	<string>กัมปาลา</string>
-	<key>Katmandu</key>
-	<string>กาตมันดุ</string>
-	<key>Khartoum</key>
-	<string>คาร์ทูม</string>
-	<key>Kiev</key>
-	<string>เคียฟ</string>
-	<key>Kinshasa</key>
-	<string>กินชาซา</string>
-	<key>Knoxville</key>
-	<string>น็อกซ์วิลล์</string>
-	<key>Kolkata</key>
-	<string>โกลกาตา (กัลกัตตา)</string>
-	<key>Krasnoyarsk</key>
-	<string>ครัสโนยาสค์</string>
-	<key>Kuala Lumpur</key>
-	<string>กัวลาลัมเปอร์</string>
-	<key>Kuwait</key>
-	<string>คูเวต</string>
-	<key>La Paz</key>
-	<string>ลาปาซ</string>
-	<key>Lagos</key>
-	<string>ลากอส</string>
-	<key>Lima</key>
-	<string>ลิมา</string>
-	<key>Lisbon</key>
-	<string>ลิสบอน</string>
-	<key>Ljubljana</key>
-	<string>ลูบลิยานา</string>
-	<key>London</key>
-	<string>ลอนดอน</string>
-	<key>Los Angeles</key>
-	<string>ลอสแองเจลิส</string>
-	<key>Luanda</key>
-	<string>ลูอันดา</string>
-	<key>Lusaka</key>
-	<string>ลูซากา</string>
-	<key>Madrid</key>
-	<string>มาดริด</string>
-	<key>Magadan</key>
-	<string>มากาดาน</string>
-	<key>Male</key>
-	<string>มาเล่</string>
-	<key>Managua</key>
-	<string>มานากัว</string>
-	<key>Manama</key>
-	<string>มานามา</string>
-	<key>Manchester</key>
-	<string>แมนเชสเตอร์</string>
-	<key>Manila</key>
-	<string>มะนิลา</string>
-	<key>Maputo</key>
-	<string>มาปูโต</string>
-	<key>Mecca</key>
-	<string>เมกกะ</string>
-	<key>Melbourne</key>
-	<string>เมลเบิร์น</string>
-	<key>Memphis</key>
-	<string>เมมฟิส</string>
-	<key>Mexico City</key>
-	<string>เม็กซิโกซิตี้</string>
-	<key>Miami</key>
-	<string>ไมอามี่</string>
-	<key>Minneapolis</key>
-	<string>มินนีแอโพลิส</string>
-	<key>Mogadisho</key>
-	<string>โมกาดิชู</string>
-	<key>Monrovia</key>
-	<string>มอนโรเวีย</string>
-	<key>Montevideo</key>
-	<string>มอนเตวิเดโอ</string>
-	<key>Montreal</key>
-	<string>มอนทรีออล</string>
-	<key>Moscow</key>
-	<string>มอสโก</string>
-	<key>Mumbai</key>
-	<string>มุมไบ (บอมเบย์)</string>
-	<key>Munich</key>
-	<string>มิวนิค</string>
-	<key>Muscat</key>
-	<string>มัสกัต</string>
-	<key>Nairobi</key>
-	<string>ไนโรบี</string>
-	<key>Ndjamena</key>
-	<string>เอ็นจาเมนา</string>
-	<key>New Delhi</key>
-	<string>นิวเดลี</string>
-	<key>New York</key>
-	<string>นิวยอร์ก</string>
-	<key>Nouakchott</key>
-	<string>นูแอกชอต</string>
-	<key>Noumea</key>
-	<string>นูเมอา</string>
-	<key>Novosibirsk</key>
-	<string>โนโวซีบิสค์</string>
-	<key>Nuuk</key>
-	<string>นุก</string>
-	<key>Omsk</key>
-	<string>ออมสค์</string>
-	<key>Osaka</key>
-	<string>โอซาก้า</string>
-	<key>Oslo</key>
-	<string>ออสโล</string>
-	<key>Ottawa</key>
-	<string>ออตตาวา</string>
-	<key>Ougadougou</key>
-	<string>วากาดูกู</string>
-	<key>Pago Pago</key>
-	<string>ปาโกปาโก</string>
-	<key>Panama</key>
-	<string>ปานามา</string>
-	<key>Paramaribo</key>
-	<string>ปารามาริโบ</string>
-	<key>Paris</key>
-	<string>ปารีส</string>
-	<key>Perth</key>
-	<string>เพิร์ธ</string>
-	<key>Philadelphia</key>
-	<string>ฟิลาเดลเฟีย</string>
-	<key>Phnom Penh</key>
-	<string>พนมเปญ</string>
-	<key>Phoenix</key>
-	<string>ฟีนิกซ์</string>
-	<key>Ponta Delgada</key>
-	<string>ปอนตา เดลกาดา</string>
-	<key>Port Louis</key>
-	<string>พอร์ตหลุยส์</string>
-	<key>Port-au-Prince</key>
-	<string>ปอร์โตแปรงซ์</string>
-	<key>Portland</key>
-	<string>พอร์ตแลนด์</string>
-	<key>Prague</key>
-	<string>ปราก</string>
-	<key>Pyongyang</key>
-	<string>เปียงยาง</string>
-	<key>Quito</key>
-	<string>กีโต</string>
-	<key>Rabat</key>
-	<string>ราบัต</string>
-	<key>Rangoon</key>
-	<string>ย่างกุ้ง</string>
-	<key>Recife</key>
-	<string>รีซิเฟ่</string>
-	<key>Regina</key>
-	<string>เรจีนา</string>
-	<key>Reykjavik</key>
-	<string>เรคยาวิก</string>
-	<key>Rio de Janeiro</key>
-	<string>ริโอเดอจาเนโร</string>
-	<key>Riyadh</key>
-	<string>ริยาด</string>
-	<key>Rome</key>
-	<string>โรม</string>
-	<key>Salt Lake City</key>
-	<string>ซอลต์เลกซิตี้</string>
-	<key>San Diego</key>
-	<string>ซานดิเอโก</string>
-	<key>San Francisco</key>
-	<string>ซานฟรานซิสโก</string>
-	<key>San Jose</key>
-	<string>ซานโฮเซ</string>
-	<key>San Juan</key>
-	<string>ซานฮวน</string>
-	<key>San Salvador</key>
-	<string>ซาน ซาลวาดอร์</string>
-	<key>Sanaa</key>
-	<string>ซาน่า</string>
-	<key>Santiago</key>
-	<string>ซานติอาโก</string>
-	<key>Santo Domingo</key>
-	<string>ซันโตโดมิงโก</string>
-	<key>Sao Paulo</key>
-	<string>เซาเปาโล</string>
-	<key>Seattle</key>
-	<string>ซีแอตเทิล</string>
-	<key>Seoul</key>
-	<string>โซล</string>
-	<key>Shanghai</key>
-	<string>เซี่ยงไฮ้</string>
-	<key>Singapore</key>
-	<string>สิงคโปร์</string>
-	<key>Sofia</key>
-	<string>โซเฟีย</string>
-	<key>St. John's</key>
-	<string>เซนต์จอห์น</string>
-	<key>St. Louis</key>
-	<string>เซนต์ หลุยส์</string>
-	<key>St. Petersburg</key>
-	<string>เซนต์ ปีเตอร์สเบิร์ก</string>
-	<key>Stockholm</key>
-	<string>สตอกโฮล์ม</string>
-	<key>Sydney</key>
-	<string>ซิดนีย์</string>
-	<key>Taipei</key>
-	<string>ไทเป</string>
-	<key>Tashkent</key>
-	<string>ทาชเคนต์</string>
-	<key>Tegucigalpa</key>
-	<string>เตกูซิกัลปา</string>
-	<key>Tehran</key>
-	<string>เตห์ราน</string>
-	<key>Thanh Pho Ho Chi Minh</key>
-	<string>โฮจิมินห์ซิตี</string>
-	<key>Tientsin</key>
-	<string>เทียนจิน</string>
-	<key>Tokyo</key>
-	<string>โตเกียว</string>
-	<key>Toronto</key>
-	<string>โตรอนโต</string>
-	<key>Tripoli</key>
-	<string>ตริโปลี</string>
-	<key>Tunis</key>
-	<string>ตูนิส</string>
-	<key>UTC</key>
-	<string>เวลาสากลเชิงพิกัด (UTC)</string>
-	<key>Ulaanbaatar</key>
-	<string>อูลานบาตอร์</string>
-	<key>Vancouver</key>
-	<string>แวนคูเวอร์</string>
-	<key>Victoria</key>
-	<string>วิคตอเรีย</string>
-	<key>Vienna</key>
-	<string>เวียนนา</string>
-	<key>Vladivostok</key>
-	<string>วลาดิวอสต็อก</string>
-	<key>Volgograd</key>
-	<string>วอลโกกราด</string>
-	<key>Warsaw</key>
-	<string>วอร์ซอ</string>
-	<key>Washington, D.C.</key>
-	<string>วอชิงตัน ดี.ซี.</string>
-	<key>Wellington</key>
-	<string>เวลลิงตัน</string>
-	<key>Winnipeg</key>
-	<string>วินนิเพก</string>
-	<key>Yakutsk</key>
-	<string>ยาคุตสค์</string>
-	<key>Yekaterinburg</key>
-	<string>เยคาเทรินเบิร์ก</string>
-	<key>Yerevan</key>
-	<string>เยเรวาน</string>
-	<key>Zagreb</key>
-	<string>ซาเกร็บ</string>
-	<key>Zurich</key>
-	<string>ซูริค</string>
-</dict>
-</plist>
+"Abidjan" = "อาบิดจาน";
+"Abu Dhabi" = "อาบูดาบี";
+"Accra" = "อักกรา";
+"Adak" = "อะแด็ค";
+"Addis Ababa" = "แอดดิสอาบาบา";
+"Adelaide" = "แอดิเลด";
+"Algiers" = "แอลเจียร์";
+"Almaty" = "อัลมาตี";
+"Amman" = "อัมมาน";
+"Amsterdam" = "อัมสเตอร์ดัม";
+"Anadyr" = "อนาไดร์";
+"Anchorage" = "แองเคอเรจ";
+"Andorra" = "Canillo";
+"Anguilla" = "Anguilla";
+"Ankara" = "แองการ่า";
+"Antananarivo" = "อันตานานาริโว";
+"Antigua" = "Antigua";
+"Apia" = "อาเปีย";
+"Aqtobe" = "อัคโทเบ";
+"Araguaína" = "Araguaína";
+"Aruba" = "Santa Cruz";
+"Ashgabat" = "อาชกาบัต";
+"Asmara" = "แอสมารา";
+"Asmera" = "อาสเมรา";
+"Astrakhan" = "อัสตราคาน";
+"Asuncion" = "อะซุนซิออง";
+"Athens" = "เอเธนส์";
+"Atikokan" = "Atikokan";
+"Atlanta" = "แอตแลนต้า";
+"Atyrau" = "Atyrau";
+"Austin" = "ออสติน";
+"Baghdad" = "แบกแดด";
+"Bahia" = "Salvador";
+"Bahía de Banderas" = "Bahía de Banderas";
+"Baku" = "บากู";
+"Bamako" = "บามาโก";
+"Bangkok" = "กรุงเทพฯ";
+"Bangui" = "บังกี";
+"Banjul" = "บันจูล";
+"Barnaul" = "บาร์นาอูล";
+"Beijing" = "ปักกิ่ง";
+"Beirut" = "เบรุต";
+"Belgrade" = "เบลเกรด";
+"Belize" = "Belize";
+"Belém" = "Belém";
+"Berlin" = "เบอร์ลิน";
+"Bermuda" = "Bermuda";
+"Beulah" = "Beulah";
+"Bishkek" = "บิชเคก";
+"Bissau" = "Bissau";
+"Blacksburg" = "แบล็กส์เบิร์ก";
+"Blanc-Sablon" = "Blanc-Sablon";
+"Blantyre" = "Blantyre";
+"Boa Vista" = "Boa Vista";
+"Bogota" = "โบโกตา";
+"Boise" = "Boise";
+"Boston" = "บอสตัน";
+"Brasalia" = "บราซิเลีย";
+"Bratislava" = "บราติสลาวา";
+"Brazzaville" = "Brazzaville";
+"Bridgetown" = "บริดจ์ทาวน์";
+"Brisbane" = "บริสเบน";
+"Broken Hill" = "Broken Hill";
+"Brunei" = "Rambai";
+"Brussels" = "บรัสเซลส์";
+"Bucharest" = "บูคาเรสต์";
+"Budapest" = "บูดาเปสต์";
+"Buenos Aires" = "Buenos Aires";
+"Bujumbura" = "Bujumbura";
+"Büsingen am Hochrhein" = "Büsingen am Hochrhein";
+"Cairo" = "ไคโร";
+"Calgary" = "คัลการี";
+"Campo Grande" = "กังปูกรังจี";
+"Canberra" = "แคนเบอร์รา";
+"Cancún" = "กังกุน";
+"Canton" = "กวางตุ้ง";
+"Cape Town" = "เคปทาวน์";
+"Caracas" = "การากัส";
+"Cardiff" = "คาร์ดิฟฟ์";
+"Catamarca" = "Belén";
+"Cayenne" = "กาแยน";
+"Cayman Islands" = "Cayman Islands";
+"Center" = "Center";
+"Ceuta" = "Ceuta";
+"Chennai" = "เจนไน (มาดราส)";
+"Chicago" = "ชิคาโก้";
+"Chihuahua" = "Chihuahua";
+"Chisinau" = "คีชีเนา";
+"Chita" = "ชีตา";
+"Choibalsan" = "ชอยบัลซาน";
+"Chongqing" = "ฉงชิ่ง";
+"Christmas Island" = "Christmas Island";
+"Colombo" = "โคลอมโบ";
+"Columbus" = "โคลัมบัส";
+"Comoros" = "Comoros";
+"Conakry" = "โกนากรี";
+"Copenhagen" = "โคเปนเฮเกน";
+"Cork" = "คอร์ก";
+"Cuiabá" = "Cuiabá";
+"Cupertino" = "คูเปอร์ติโน";
+"Curaçao" = "วิลเลมสตัดท์";
+"Córdoba" = "Córdoba";
+"Dakar" = "ดาการ์";
+"Dallas" = "ดัลลัส";
+"Damascus" = "ดามัสกัส";
+"Danmarkshavn" = "Danmarkshavn";
+"Dar es Salaam" = "ดาร์ เอส ซาลาม";
+"Darwin" = "ดาร์วิน";
+"Dawson Creek" = "Dawson Creek";
+"Denver" = "เดนเวอร์";
+"Detroit" = "ดีทรอยต์";
+"Dhaka" = "ธากา";
+"Dili" = "ดิลี";
+"Djibouti" = "จิบูติ";
+"Doha" = "โดฮา";
+"Dominica" = "Dominica";
+"Douala" = "ดูอาลา";
+"Dublin" = "ดับลิน";
+"Dushanbe" = "ดูชานเบ";
+"Edinburgh" = "เอดินบะระ";
+"Edmonton" = "Edmonton";
+"Efate" = "Efate";
+"Eirunepé" = "Eirunepé";
+"Enderbury Island" = "Enderbury Island";
+"Eucla" = "Eucla";
+"Famagusta" = "Famagusta";
+"Faroe Islands" = "Faroe Islands";
+"Fernando de Noronha" = "Fernando De Noronha";
+"Fiji" = "Fiji";
+"Fort Nelson" = "Fort Nelson";
+"Fortaleza" = "ฟอร์ตาเลซา";
+"Freetown" = "ฟรีทาวน์";
+"Funafuti" = "Funafuti";
+"Gaborone" = "Gaborone";
+"Galapagos Islands" = "Isabela";
+"Gaza" = "Gaza";
+"Geneva" = "เจนีวา";
+"Georgetown" = "จอร์จทาวน์";
+"Gibraltar" = "ยิบรอลตาร์";
+"Grand Turk" = "Grand Turk";
+"Grenada" = "Grenada";
+"Grytviken" = "กริตวิเคน";
+"Guadalcanal Island" = "Guadalcanal Island";
+"Guadeloupe" = "Le Gosier";
+"Guam" = "กวม";
+"Guatemala" = "กัวเตมาลา";
+"Halifax" = "Halifax";
+"Hamburg" = "ฮัมบูร์ก";
+"Hanoi" = "ฮานอย";
+"Harare" = "ฮาแรร์";
+"Harbin" = "ฮาร์บิน";
+"Havana" = "ฮาวานา";
+"Helsinki" = "เฮลซิงกิ";
+"Hermosillo" = "Hermosillo";
+"Ho Chi Minh City" = "โฮจิมินท์ ซิตี้";
+"Hobart" = "โฮบาร์ต";
+"Hong Kong" = "ฮ่องกง";
+"Honolulu" = "โฮโนลูลู";
+"Houston" = "ฮูสตัน";
+"Indianapolis" = "Indianapolis";
+"Inuvik" = "Inuvik";
+"Iqaluit" = "Iqaluit";
+"Irkutsk" = "อีร์คูตสค์";
+"Islamabad" = "อิสลามาบัด";
+"Isle of Man" = "Kirk Michael";
+"Istanbul" = "อิสตันบูล";
+"Jakarta" = "จาการ์ตา";
+"Jamaica" = "Saint Catherine";
+"Jayapura" = "จายาปุระ";
+"Jerusalem" = "เยรูซาเล็ม";
+"Juba" = "Juba";
+"Jujuy" = "Casabindo";
+"Juneau" = "Juneau";
+"Kabul" = "คาบูล";
+"Kaliningrad" = "คาลินินกราด";
+"Kampala" = "กัมปาลา";
+"Kashi" = "Kashgar";
+"Kathmandu" = "กาฐมาณฑุ";
+"Katmandu" = "กาตมันดุ";
+"Khandyga" = "คันดิการ์ฮ";
+"Khartoum" = "คาร์ทูม";
+"Khovd" = "Khovd";
+"Kiev" = "เคียฟ";
+"Kigali" = "Kigali";
+"Kinshasa" = "กินชาซา";
+"Kirov" = "คิรอฟ";
+"Knox" = "Knox";
+"Knoxville" = "น็อกซ์วิลล์";
+"Kolkata" = "โกลกาตา (กัลกัตตา)";
+"Kosrae Island" = "Kosrae Island";
+"Kralendijk" = "Kralendijk";
+"Krasnoyarsk" = "ครัสโนยาสค์";
+"Kuala Lumpur" = "กัวลาลัมเปอร์";
+"Kuching" = "Kuching";
+"Kuwait" = "คูเวต";
+"Kyiv" = "เคียฟ";
+"Kyzylorda" = "Kyzylorda";
+"La Paz" = "ลาปาซ";
+"La Rioja" = "La Rioja";
+"Laayoune" = "เอลอายูน";
+"Lagos" = "ลากอส";
+"Libreville" = "Libreville";
+"Lima" = "ลิมา";
+"Lisbon" = "ลิสบอน";
+"Ljubljana" = "ลูบลิยานา";
+"Lome" = "Lome";
+"London" = "ลอนดอน";
+"Longyearbyen" = "Svalbard";
+"Los Angeles" = "ลอสแองเจลิส";
+"Louisville" = "Louisville";
+"Luanda" = "ลูอันดา";
+"Lubumbashi" = "Lubumbashi";
+"Lusaka" = "ลูซากา";
+"Luxembourg" = "Mersch";
+"Macao SAR, China" = "มาเก๊า";
+"Maceió" = "Maceió";
+"Madeira" = "Câmara De Lobos";
+"Madrid" = "มาดริด";
+"Magadan" = "มากาดาน";
+"Majuro" = "Majuro";
+"Makassar" = "Makassar";
+"Malabo" = "เกซอง";
+"Male" = "มาเล่";
+"Malta" = "St. Paul's Bay";
+"Managua" = "มานากัว";
+"Manama" = "มานามา";
+"Manaus" = "Manaus";
+"Manchester" = "แมนเชสเตอร์";
+"Mangystau" = "Mangystau";
+"Manila" = "มะนิลา";
+"Maputo" = "มาปูโต";
+"Marengo" = "Marengo";
+"Mariehamn" = "Mariehamn";
+"Martinique" = "Saint-Joseph";
+"Maseru" = "มาเซรู";
+"Matamoros" = "มาตาโมโรส";
+"Mayotte" = "Tsingoni";
+"Mazatlán" = "Mazatlán";
+"Mbabane" = "Mbabane";
+"Mecca" = "เมกกะ";
+"Melbourne" = "เมลเบิร์น";
+"Memphis" = "เมมฟิส";
+"Mendoza" = "Capital";
+"Menominee" = "Menominee";
+"Metlakatla" = "Metlakatla";
+"Mexico City" = "เม็กซิโกซิตี้";
+"Miami" = "Miami";
+"Minneapolis" = "มินนีแอโพลิส";
+"Minsk" = "Minsk";
+"Miquelon" = "Miquelon-Langlade";
+"Mogadisho" = "โมกาดิชู";
+"Monaco" = "โมนาโก";
+"Moncton" = "Moncton";
+"Monrovia" = "มอนโรเวีย";
+"Monterrey" = "Monterrey";
+"Montevideo" = "มอนเตวิเดโอ";
+"Monticello" = "Monticello";
+"Montreal" = "มอนทรีออล";
+"Montserrat" = "Montserrat";
+"Moscow" = "มอสโก";
+"Mumbai" = "มุมไบ (บอมเบย์)";
+"Munich" = "มิวนิค";
+"Muscat" = "มัสกัต";
+"Mérida" = "Mérida";
+"Nairobi" = "ไนโรบี";
+"Nassau" = "แนสซอ";
+"Nauru" = "Nauru";
+"Ndjamena" = "เอ็นจาเมนา";
+"New Delhi" = "นิวเดลี";
+"New Salem" = "New Salem";
+"New York" = "นิวยอร์ก";
+"Niamey" = "Niamey";
+"Nicosia" = "นิโคเซีย";
+"Niue" = "Niue";
+"Nome" = "Nome";
+"Nouakchott" = "นูแอกชอต";
+"Noumea" = "นูเมอา";
+"Novokuznetsk" = "โนโวคุซเนตสค์";
+"Novosibirsk" = "โนโวซีบิสค์";
+"Nuuk" = "นุก";
+"Ojinaga" = "Ojinaga";
+"Omsk" = "ออมสค์";
+"Osaka" = "โอซาก้า";
+"Oslo" = "ออสโล";
+"Ottawa" = "ออตตาวา";
+"Ougadougou" = "วากาดูกู";
+"Pago Pago" = "ปาโกปาโก";
+"Palau" = "Palau";
+"Panama" = "ปานามา";
+"Pangnirtung" = "Pangnirtung";
+"Paramaribo" = "ปารามาริโบ";
+"Paris" = "ปารีส";
+"Perth" = "เพิร์ธ";
+"Petersburg" = "Petersburg";
+"Philadelphia" = "ฟิลาเดลเฟีย";
+"Phnom Penh" = "พนมเปญ";
+"Phoenix" = "ฟีนิกซ์";
+"Pitcairn Islands" = "Pitcairn Islands";
+"Podgorica" = "Podgorica";
+"Pohnpei International Airport" = "Pohnpei International Airport";
+"Ponta Delgada" = "ปอนตา เดลกาดา";
+"Pontianak" = "Pontianak";
+"Port Louis" = "พอร์ตหลุยส์";
+"Port Moresby" = "พอร์ตมอร์สบี";
+"Port of Spain" = "พอร์ตออฟสเปน";
+"Port-au-Prince" = "ปอร์โตแปรงซ์";
+"Portland" = "พอร์ตแลนด์";
+"Porto Velho" = "Porto Velho";
+"Porto-Novo" = "Porto-Novo";
+"Prague" = "ปราก";
+"Punta Arenas" = "ปุนตา อาเรนัส";
+"Punta Gorda" = "Punta Gorda";
+"Pyongyang" = "เปียงยาง";
+"Quito" = "กีโต";
+"Rabat" = "ราบัต";
+"Rainy River" = "Rainy River";
+"Rangoon" = "ย่างกุ้ง";
+"Rankin Inlet" = "Rankin Inlet";
+"Rarotonga International Airport" = "Rarotonga International Airport";
+"Recife" = "รีซิเฟ่";
+"Regina" = "Regina";
+"Reykjavik" = "เรคยาวิก";
+"Riga" = "รีกา";
+"Rio Branco" = "Rio Branco";
+"Rio de Janeiro" = "ริโอเดอจาเนโร";
+"Riyadh" = "ริยาด";
+"Rome" = "โรม";
+"Réunion" = "Saint-Benoît";
+"Río Gallegos" = "Río Gallegos";
+"Saint Barthélemy" = "เซนต์บาร์เธเลมี";
+"Saint Helena, Ascension and Tristan da Cunha " = "Saint Helena, Ascension and Tristan da Cunha ";
+"Saint Lucia" = "Saint Lucia";
+"Saipan" = "Saipan";
+"Sakhalin" = "Smirnykhovsky Urban Okrug";
+"Salt Lake City" = "ซอลต์เลกซิตี้";
+"Salta" = "Salta";
+"Samara" = "ซามารา";
+"Samarqand" = "Samarqand";
+"San Diego" = "ซานดิเอโก";
+"San Francisco" = "ซานฟรานซิสโก";
+"San Jose" = "ซานโฮเซ";
+"San Juan" = "Departamento Capital";
+"San Luis" = "Villa Mercedes";
+"San Marino" = "San Marino";
+"San Salvador" = "ซาน ซาลวาดอร์";
+"Sanaa" = "ซาน่า";
+"Santarém" = "Santarém";
+"Santiago" = "ซานติอาโก";
+"Santo Domingo" = "ซันโตโดมิงโก";
+"Sao Paulo" = "เซาเปาโล";
+"Sarajevo" = "ซาราเยโว";
+"Saratov" = "ซาราตอฟ";
+"Scoresbysund" = "Scoresbysund";
+"Seattle" = "ซีแอตเทิล";
+"Seoul" = "โซล";
+"Shanghai" = "เซี่ยงไฮ้";
+"Shiprock" = "Shiprock";
+"Simferopol" = "Simferopol";
+"Singapore" = "สิงคโปร์";
+"Sitka" = "Sitka";
+"Skopje" = "สโกเปีย";
+"Sofia" = "โซเฟีย";
+"Srednekolymsk" = "สเรดเนโกลีมสก์";
+"St. John's" = "St. John's";
+"St. Kitts Marriott Resort & The Royal Beach Casino" = "St. Kitts Marriott Resort & The Royal Beach Casino";
+"St. Louis" = "เซนต์ หลุยส์";
+"St. Petersburg" = "เซนต์ ปีเตอร์สเบิร์ก";
+"Stanley" = "Stanley";
+"Stockholm" = "สตอกโฮล์ม";
+"Swift Current" = "Swift Current";
+"Sydney" = "ซิดนีย์";
+"Syria" = "Aleppo";
+"São Tomé" = "São Tomé";
+"Tahiti" = "Tahiti";
+"Taipei" = "ไทเป";
+"Tallinn" = "ทาลลินน์";
+"Tashkent" = "ทาชเคนต์";
+"Tbilisi" = "ทบิลิซี";
+"Tegucigalpa" = "เตกูซิกัลปา";
+"Tehran" = "เตห์ราน";
+"Tell City" = "Tell City";
+"Thanh Pho Ho Chi Minh" = "โฮจิมินห์ซิตี";
+"Thimphu" = "ทิมพู";
+"Thunder Bay" = "Thunder Bay";
+"Tientsin" = "เทียนจิน";
+"Tijuana" = "Tijuana";
+"Tirana" = "Tirana";
+"Tokyo" = "โตเกียว";
+"Tomsk" = "ตอมสค์";
+"Toronto" = "โทรอนโต";
+"Tortola" = "Tortola";
+"Tripoli" = "ตริโปลี";
+"Tucumán" = "La Reduccion";
+"Tunis" = "ตูนิส";
+"UTC" = "เวลาสากลเชิงพิกัด (UTC)";
+"Ulaanbaatar" = "อูลานบาตอร์";
+"Ulyanovsk" = "อุลยานอฟสค์";
+"Uralsk" = "Uralsk";
+"Ushuaia" = "Ushuaia";
+"Ust-Nera" = "Oymyakonsky District";
+"Uzhhorod" = "Uzhhorod";
+"Vaduz" = "Vaduz";
+"Vancouver" = "แวนคูเวอร์";
+"Vatican City" = "Vatican City";
+"Vevay" = "Vevay";
+"Victoria" = "วิคตอเรีย";
+"Vienna" = "เวียนนา";
+"Vientiane" = "Vientiane";
+"Vilnius" = "Vilnius";
+"Vincennes" = "Vincennes";
+"Vladivostok" = "วลาดิวอสต็อก";
+"Volgograd" = "โวลโกแกรด";
+"Warsaw" = "วอร์ซอ";
+"Washington, D.C." = "วอชิงตัน ดี.ซี.";
+"Wellington" = "เวลลิงตัน";
+"Weno" = "Weno";
+"Winamac" = "Winamac";
+"Windhoek" = "Windhoek";
+"Winnipeg" = "วินนิเพก";
+"Yakutat" = "Yakutat";
+"Yakutsk" = "ยาคุตสค์";
+"Yangon" = "ย่างกุ้ง";
+"Yekaterinburg" = "เยคาเทรินเบิร์ก";
+"Yellowknife" = "Yellowknife";
+"Yerevan" = "เยเรวาน";
+"Zagreb" = "ซาเกร็บ";
+"Zaporizhzhia" = "Zaporizhzhya";
+"Zurich" = "ซูริค";

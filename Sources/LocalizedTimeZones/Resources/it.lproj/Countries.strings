@@ -1,284 +1,235 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>Afghanistan</key>
-	<string>Afghanistan</string>
-	<key>Algeria</key>
-	<string>Algeria</string>
-	<key>Angola</key>
-	<string>Angola</string>
-	<key>Argentina</key>
-	<string>Argentina</string>
-	<key>Armenia</key>
-	<string>Armenia</string>
-	<key>Australia</key>
-	<string>Australia</string>
-	<key>Austria</key>
-	<string>Austria</string>
-	<key>Azerbaijan</key>
-	<string>Azerbaigian</string>
-	<key>Bahrain</key>
-	<string>Bahrain</string>
-	<key>Bangladesh</key>
-	<string>Bangladesh</string>
-	<key>Barbados</key>
-	<string>Barbados</string>
-	<key>Belgium</key>
-	<string>Belgio</string>
-	<key>Bolivia</key>
-	<string>Bolivia</string>
-	<key>Brazil</key>
-	<string>Brasile</string>
-	<key>Bulgaria</key>
-	<string>Bulgaria</string>
-	<key>Burkina Faso</key>
-	<string>Burkina Faso</string>
-	<key>Burma</key>
-	<string>Burma</string>
-	<key>Cambodia</key>
-	<string>Cambogia</string>
-	<key>Cameroon</key>
-	<string>Camerun</string>
-	<key>Canada</key>
-	<string>Canada</string>
-	<key>Central African Republic</key>
-	<string>Repubblica Centroafricana</string>
-	<key>Chad</key>
-	<string>Ciad</string>
-	<key>Chile</key>
-	<string>Cile</string>
-	<key>China</key>
-	<string>Cina</string>
-	<key>Colombia</key>
-	<string>Colombia</string>
-	<key>Costa Rica</key>
-	<string>Costa Rica</string>
-	<key>Croatia</key>
-	<string>Croazia</string>
-	<key>Cuba</key>
-	<string>Cuba</string>
-	<key>Czech Republic</key>
-	<string>Repubblica Ceca</string>
-	<key>Denmark</key>
-	<string>Danimarca</string>
-	<key>Djibouti</key>
-	<string>Gibuti</string>
-	<key>Dominican Republic</key>
-	<string>Repubblica Dominicana</string>
-	<key>Ecuador</key>
-	<string>Ecuador</string>
-	<key>Egypt</key>
-	<string>Egitto</string>
-	<key>El Salvador</key>
-	<string>El Salvador</string>
-	<key>England</key>
-	<string>Inghilterra</string>
-	<key>Eritrea</key>
-	<string>Eritrea</string>
-	<key>Ethiopia</key>
-	<string>Etiopia</string>
-	<key>Finland</key>
-	<string>Finlandia</string>
-	<key>France</key>
-	<string>Francia</string>
-	<key>French Guiana</key>
-	<string>Guyana Francese</string>
-	<key>Germany</key>
-	<string>Germania</string>
-	<key>Ghana</key>
-	<string>Ghana</string>
-	<key>Greece</key>
-	<string>Grecia</string>
-	<key>Greenland</key>
-	<string>Groenlandia</string>
-	<key>Guatemala</key>
-	<string>Guatemala</string>
-	<key>Guinea</key>
-	<string>Guinea</string>
-	<key>Guyana</key>
-	<string>Guyana</string>
-	<key>Haiti</key>
-	<string>Haiti</string>
-	<key>Honduras</key>
-	<string>Honduras</string>
-	<key>Hong Kong</key>
-	<string>Hong Kong</string>
-	<key>Hungary</key>
-	<string>Ungheria</string>
-	<key>Iceland</key>
-	<string>Islanda</string>
-	<key>India</key>
-	<string>India</string>
-	<key>Indonesia</key>
-	<string>Indonesia</string>
-	<key>Iran</key>
-	<string>Iran</string>
-	<key>Iraq</key>
-	<string>Iraq</string>
-	<key>Ireland</key>
-	<string>Irlanda</string>
-	<key>Israel</key>
-	<string>Israele</string>
-	<key>Italy</key>
-	<string>Italia</string>
-	<key>Japan</key>
-	<string>Giappone</string>
-	<key>Jordan</key>
-	<string>Giordania</string>
-	<key>Kenya</key>
-	<string>Kenya</string>
-	<key>Korea</key>
-	<string>Corea</string>
-	<key>Kuwait</key>
-	<string>Kuwait</string>
-	<key>Lebanon</key>
-	<string>Libano</string>
-	<key>Liberia</key>
-	<string>Liberia</string>
-	<key>Libya</key>
-	<string>Libia</string>
-	<key>Madagascar</key>
-	<string>Madagascar</string>
-	<key>Malaysia</key>
-	<string>Malesia</string>
-	<key>Maldives</key>
-	<string>Maldive</string>
-	<key>Mali</key>
-	<string>Mali</string>
-	<key>Mauritania</key>
-	<string>Mauritania</string>
-	<key>Mauritius</key>
-	<string>Maurizio</string>
-	<key>Mexico</key>
-	<string>Messico</string>
-	<key>Mongolia</key>
-	<string>Mongolia</string>
-	<key>Morocco</key>
-	<string>Marocco</string>
-	<key>Mozambique</key>
-	<string>Mozambico</string>
-	<key>Nepal</key>
-	<string>Nepal</string>
-	<key>Netherlands</key>
-	<string>Paesi Bassi</string>
-	<key>New Caledonia</key>
-	<string>Nuova Caledonia</string>
-	<key>New Zealand</key>
-	<string>Nuova Zelanda</string>
-	<key>Nicaragua</key>
-	<string>Nicaragua</string>
-	<key>Nigeria</key>
-	<string>Nigeria</string>
-	<key>North Korea</key>
-	<string>Corea del Nord</string>
-	<key>Norway</key>
-	<string>Norvegia</string>
-	<key>Oman</key>
-	<string>Oman</string>
-	<key>Pakistan</key>
-	<string>Pakistan</string>
-	<key>Panama</key>
-	<string>Panama</string>
-	<key>Paraguay</key>
-	<string>Paraguay</string>
-	<key>Peru</key>
-	<string>Perù</string>
-	<key>Philippines</key>
-	<string>Filippine</string>
-	<key>Poland</key>
-	<string>Polonia</string>
-	<key>Portugal</key>
-	<string>Portogallo</string>
-	<key>Puerto Rico</key>
-	<string>Portorico</string>
-	<key>Qatar</key>
-	<string>Qatar</string>
-	<key>Romania</key>
-	<string>Romania</string>
-	<key>Russia</key>
-	<string>Russia</string>
-	<key>Samoa</key>
-	<string>Samoa</string>
-	<key>Saudi Arabia</key>
-	<string>Arabia Saudita</string>
-	<key>Scotland</key>
-	<string>Scozia</string>
-	<key>Senegal</key>
-	<string>Senegal</string>
-	<key>Serbia and Montenegro</key>
-	<string>Serbia e Montenegro</string>
-	<key>Seychelles</key>
-	<string>Seychelles</string>
-	<key>Sierra Leone</key>
-	<string>Sierra Leone</string>
-	<key>Singapore</key>
-	<string>Singapore</string>
-	<key>Slovakia</key>
-	<string>Slovacchia</string>
-	<key>Slovenia</key>
-	<string>Slovenia</string>
-	<key>Somalia</key>
-	<string>Somalia</string>
-	<key>South Africa</key>
-	<string>Sudafrica</string>
-	<key>South Georgia</key>
-	<string>South Georgia</string>
-	<key>Spain</key>
-	<string>Spagna</string>
-	<key>Sri Lanka</key>
-	<string>Sri Lanka</string>
-	<key>Sudan</key>
-	<string>Sudan</string>
-	<key>Surinam</key>
-	<string>Suriname</string>
-	<key>Sweden</key>
-	<string>Svezia</string>
-	<key>Switzerland</key>
-	<string>Svizzera</string>
-	<key>Syria</key>
-	<string>Siria</string>
-	<key>Taiwan</key>
-	<string>Taiwan</string>
-	<key>Tanzania</key>
-	<string>Tanzania</string>
-	<key>Thailand</key>
-	<string>Thailandia</string>
-	<key>Tunisia</key>
-	<string>Tunisia</string>
-	<key>Turkey</key>
-	<string>Turchia</string>
-	<key>Turkmenistan</key>
-	<string>Turkmenistan</string>
-	<key>U.A.E.</key>
-	<string>E.A.U.</string>
-	<key>U.S.A.</key>
-	<string>U.S.A.</string>
-	<key>UTC</key>
-	<string>UTC</string>
-	<key>Uganda</key>
-	<string>Uganda</string>
-	<key>Ukraine</key>
-	<string>Ucraina</string>
-	<key>Unknown</key>
-	<string>Sconosciuto</string>
-	<key>Uruguay</key>
-	<string>Uruguay</string>
-	<key>Uzbekistan</key>
-	<string>Uzbekistan</string>
-	<key>Venezuela</key>
-	<string>Venezuela</string>
-	<key>Vietnam</key>
-	<string>Vietnam</string>
-	<key>Wales</key>
-	<string>Galles</string>
-	<key>Yemen</key>
-	<string>Yemen</string>
-	<key>Zaire</key>
-	<string>Rep. Dem. del Congo</string>
-	<key>Zambia</key>
-	<string>Zambia</string>
-	<key>Zimbabwe</key>
-	<string>Zimbabwe</string>
-</dict>
-</plist>
+"" = "";
+"Afghanistan" = "Afghanistan";
+"Albania" = "Albania";
+"Algeria" = "Algeria";
+"Andorra" = "Andorra";
+"Angola" = "Angola";
+"Anguilla" = "Anguilla";
+"Antigua and Barbuda" = "Antigua e Barbuda";
+"Argentina" = "Argentina";
+"Armenia" = "Armenia";
+"Aruba" = "Aruba";
+"Australia" = "Australia";
+"Austria" = "Austria";
+"Azerbaijan" = "Azerbaigian";
+"Bahamas" = "Bahamas";
+"Bahrain" = "Bahrain";
+"Bangladesh" = "Bangladesh";
+"Barbados" = "Barbados";
+"Belarus" = "Bielorussia";
+"Belgium" = "Belgio";
+"Belize" = "Belize";
+"Benin" = "Benin";
+"Bermuda" = "Bermuda";
+"Bhutan" = "Bhutan";
+"Bolivia" = "Bolivia";
+"Bosnia and Herzegovina" = "Bosnia-Erzegovina";
+"Botswana" = "Botswana";
+"Brazil" = "Brasile";
+"British Virgin Islands" = "Isole Vergini Britanniche";
+"Brunei" = "Brunei";
+"Bulgaria" = "Bulgaria";
+"Burkina Faso" = "Burkina Faso";
+"Burma" = "Burma";
+"Burundi" = "Burundi";
+"Cambodia" = "Cambogia";
+"Cameroon" = "Camerun";
+"Canada" = "Canada";
+"Cape Verde" = "Capo Verde";
+"Caribbean Netherlands" = "Caraibi Olandesi";
+"Cayman Islands" = "Isole Cayman";
+"Central African Republic" = "Repubblica Centroafricana";
+"Chad" = "Ciad";
+"Chile" = "Cile";
+"China" = "Cina";
+"Colombia" = "Colombia";
+"Comoros" = "Comore";
+"Congo" = "Congo";
+"Cook Islands" = "Isole Cook";
+"Costa Rica" = "Costa Rica";
+"Croatia" = "Croazia";
+"Cuba" = "Cuba";
+"Curaçao" = "Curaçao";
+"Cyprus" = "Cipro";
+"Czech Republic" = "Repubblica Ceca";
+"Côte d’Ivoire" = "Costa d'Avorio";
+"Democratic Republic of the Congo" = "Repubblica Democratica del Congo";
+"Denmark" = "Danimarca";
+"Djibouti" = "Gibuti";
+"Dominica" = "Dominica";
+"Dominican Republic" = "Repubblica Dominicana";
+"Ecuador" = "Ecuador";
+"Egypt" = "Egitto";
+"El Salvador" = "El Salvador";
+"England" = "Inghilterra";
+"Equatorial Guinea" = "Guinea Equatoriale";
+"Eritrea" = "Eritrea";
+"Estonia" = "Estonia";
+"Eswatini" = "Swaziland";
+"Ethiopia" = "Etiopia";
+"Falkland Islands" = "Isole Falkland";
+"Famagusta" = "Famagusta";
+"Faroe Islands" = "Isole Faroe";
+"Fiji" = "Figi";
+"Finland" = "Finlandia";
+"France" = "Francia";
+"French Guiana" = "Guyana Francese";
+"French Polynesia" = "Polinesia Francese";
+"Gabon" = "Gabon";
+"Gambia" = "Gambia";
+"Gaza" = "Gaza";
+"Georgia" = "Georgia";
+"Germany" = "Germania";
+"Ghana" = "Ghana";
+"Gibraltar" = "Gibraltar";
+"Greece" = "Grecia";
+"Greenland" = "Groenlandia";
+"Grenada" = "Grenada";
+"Guadeloupe" = "Guadalupa";
+"Guatemala" = "Guatemala";
+"Guinea" = "Guinea";
+"Guinea-Bissau" = "Guinea-Bissau";
+"Guyana" = "Guyana";
+"Haiti" = "Haiti";
+"Honduras" = "Honduras";
+"Hungary" = "Ungheria";
+"Iceland" = "Islanda";
+"India" = "India";
+"Indonesia" = "Indonesia";
+"Iran" = "Iran";
+"Iraq" = "Iraq";
+"Ireland" = "Irlanda";
+"Israel" = "Israele";
+"Italy" = "Italia";
+"Jamaica" = "Giamaica";
+"Japan" = "Giappone";
+"Jordan" = "Giordania";
+"Kazakhstan" = "Kazakistan";
+"Kenya" = "Kenya";
+"Kiribati" = "Kiribati";
+"Korea" = "Corea";
+"Kuwait" = "Kuwait";
+"Kyrgyzstan" = "Kirghizistan";
+"Laayoune" = "Laayoune";
+"Laos" = "Laos";
+"Latvia" = "Lettonia";
+"Lebanon" = "Libano";
+"Lesotho" = "Lesotho";
+"Liberia" = "Liberia";
+"Libya" = "Libia";
+"Liechtenstein" = "Liechtenstein";
+"Lithuania" = "Lituania";
+"Luxembourg" = "Lussemburgo";
+"Macao SAR, China" = "Macao RAS, Cina";
+"Madagascar" = "Madagascar";
+"Malawi" = "Malawi";
+"Malaysia" = "Malesia";
+"Maldives" = "Maldive";
+"Mali" = "Mali";
+"Malta" = "Malta";
+"Marshall Islands" = "Isole Marshall";
+"Martinique" = "Martinica";
+"Mauritania" = "Mauritania";
+"Mauritius" = "Maurizio";
+"Mayotte" = "Mayotte";
+"Mexico" = "Messico";
+"Micronesia" = "Micronesia";
+"Moldova" = "Moldavia";
+"Monaco" = "Monaco";
+"Mongolia" = "Mongolia";
+"Montenegro" = "Montenegro";
+"Montserrat" = "Montserrat";
+"Morocco" = "Marocco";
+"Mozambique" = "Mozambico";
+"Myanmar (Burma)" = "Myanmar";
+"Namibia" = "Namibia";
+"Nauru" = "Nauru";
+"Nepal" = "Nepal";
+"Netherlands" = "Paesi Bassi";
+"New Caledonia" = "Nuova Caledonia";
+"New Zealand" = "Nuova Zelanda";
+"Nicaragua" = "Nicaragua";
+"Niger" = "Niger";
+"Nigeria" = "Nigeria";
+"Niue" = "Niue";
+"North Korea" = "Corea del Nord";
+"North Macedonia" = "Macedonia del Nord";
+"Northern Mariana Islands" = "Isole Marianne Settentrionali";
+"Norway" = "Norvegia";
+"Oman" = "Oman";
+"Pakistan" = "Pakistan";
+"Palau" = "Palau";
+"Panama" = "Panama";
+"Papua New Guinea" = "Papua Nuova Guinea";
+"Paraguay" = "Paraguay";
+"Peru" = "Perù";
+"Philippines" = "Filippine";
+"Pitcairn Islands" = "Isole Pitcairn";
+"Poland" = "Polonia";
+"Portugal" = "Portogallo";
+"Puerto Rico" = "Portorico";
+"Qatar" = "Qatar";
+"Romania" = "Romania";
+"Russia" = "Russia";
+"Rwanda" = "Ruanda";
+"Réunion" = "Isola della Riunione";
+"Saint Barthélemy" = "Saint-Barthélemy";
+"Saint Helena, Ascension and Tristan da Cunha " = "Sant'Elena";
+"Saint Kitts and Nevis" = "Saint Kitts e Nevis";
+"Saint Lucia" = "Santa Lucia";
+"Saint Pierre and Miquelon" = "Saint Pierre e Miquelon";
+"Samoa" = "Samoa";
+"San Marino" = "San Marino";
+"Sao Tome and Principe" = "São Tomé e Príncipe";
+"Saudi Arabia" = "Arabia Saudita";
+"Scotland" = "Scozia";
+"Senegal" = "Senegal";
+"Serbia and Montenegro" = "Serbia e Montenegro";
+"Seychelles" = "Seychelles";
+"Sierra Leone" = "Sierra Leone";
+"Singapore" = "Singapore";
+"Slovakia" = "Slovacchia";
+"Slovenia" = "Slovenia";
+"Solomon Islands" = "Isole Salomone";
+"Somalia" = "Somalia";
+"South Africa" = "Sudafrica";
+"South Georgia" = "South Georgia";
+"South Sudan" = "Sudan del Sud";
+"Spain" = "Spagna";
+"Sri Lanka" = "Sri Lanka";
+"Sudan" = "Sudan";
+"Surinam" = "Suriname";
+"Svalbard and Jan Mayen" = "Svalbard e Jan Mayen";
+"Sweden" = "Svezia";
+"Switzerland" = "Svizzera";
+"Syria" = "Siria";
+"Tajikistan" = "Tagikistan";
+"Tanzania" = "Tanzania";
+"Thailand" = "Thailandia";
+"Timor-Leste" = "Timor Est";
+"Togo" = "Togo";
+"Trinidad and Tobago" = "Trinidad e Tobago";
+"Tunisia" = "Tunisia";
+"Turkey" = "Turchia";
+"Turkmenistan" = "Turkmenistan";
+"Turks and Caicos Islands" = "Isole Turks e Caicos";
+"Tuvalu" = "Tuvalu";
+"U.A.E." = "E.A.U.";
+"U.S.A." = "U.S.A.";
+"UTC" = "UTC";
+"Uganda" = "Uganda";
+"Ukraine" = "Ucraina";
+"United Kingdom" = "Regno Unito";
+"United States" = "Stati Uniti";
+"Uruguay" = "Uruguay";
+"Uzbekistan" = "Uzbekistan";
+"Vanuatu" = "Vanuatu";
+"Vatican City" = "Città del Vaticano";
+"Venezuela" = "Venezuela";
+"Vietnam" = "Vietnam";
+"Wales" = "Galles";
+"Yemen" = "Yemen";
+"Zaire" = "Rep. Dem. del Congo";
+"Zambia" = "Zambia";
+"Zimbabwe" = "Zimbabwe";
+"Åland Islands" = "Isole Åland";
